@@ -1,0 +1,21 @@
+Toy Story 3|Animation; Adventure; Comedy; Family; Fantasy|USA
+Interstellar|Adventure; Sci-Fi|USA;UK;Canada
+The Avengers|Action; Adventure; Sci-Fi|USA
+How to Train Your Dragon|Animation; Adventure; Family; Fantasy|USA
+Boyhood|Drama|USA
+Shutter Island|Mystery; Thriller|USA
+Incendies|Drama; Mystery; War|Canada;France
+The Dark Knight Rises|Action; Thriller|USA;UK
+Inception|Action; Mystery; Sci-Fi; Thriller|USA;UK
+The King's Speech|Biography; Drama; History|UK;USA;Australia
+Elite Squad: The Enemy Within|Action; Crime; Drama; Thriller|Brazil
+Django Unchained|Western|USA
+X-Men: Days of Future Past|Action; Adventure; Sci-Fi; Thriller|USA;UK
+Gangs of Wasseypur|Action; Crime; Drama; Thriller|India
+Guardians of the Galaxy|Action; Adventure; Sci-Fi|USA;UK
+The Imitation Game|Biography; Drama; Thriller; War|UK;USA
+Jagten|Drama|Denmark;Sweden
+Gone Girl|Drama; Mystery; Thriller|USA
+The Grand Budapest Hotel|Adventure; Comedy; Drama|USA;Germany;UK
+Whiplash|Drama; Music|USA
+Kingsman: The Secret Service|Action; Adventure; Comedy; Crime|UK;USA

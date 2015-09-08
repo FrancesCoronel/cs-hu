@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<!--FVCproductions-->
+
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <script>
+        $(document).ready(function() {
+            $("#flip").click(function() {
+                $("#panel").slideToggle("slow");
+            });
+        });
+    </script>
+    <style>
+        html {
+            background: white;
+            color: #333;
+            font-family: 'Open Sans', sans serif;
+            font-size: 15px;
+            font-style, font-weight, letter-spacing, line-height, word-spacing: normal;
+            text-align: center;
+        }
+        #panel,
+        #flip {
+            padding: 10px;
+            font-size: 25px;
+            font-family: 'Open Sans', sans serif;
+            text-align: center;
+            background-color: white;
+            border: groove 3px grey;
+            border-radius: 10px;
+        }
+        #panel {
+            padding: 50px;
+            display: none;
+        }
+        img {
+            border: groove 1px black;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="flip">The weather in Norfolk is now...</div>
+    <div id="panel"> <strong>BIPOLAR</strong> </br>
+        </br> <img src="https://s-media-cache-ak0.pinimg.com/736x/2a/33/0f/2a330f732e2cfdea2fddb8e8960bcc72.jpg"> </div>
+</body>
+
+</html>

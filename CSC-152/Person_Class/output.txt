@@ -1,0 +1,15 @@
+				MY Company
+
+Name 			Age 	Initial Money 	Action 		Final Money
+---------------------------------------------------------------------------
+Jenny Wright		18	22.75		WORK + 20.5	43.25
+Tommy Lee		20	44.32		SHOP		34.32
+Sara Cohen		24	87.79		SHOP - 50.75	37.04 //not enough money
+Tim Brown		18	55.22		WORK 7 * 15.5	55.22
+John Krump		19	86.01		SHOP - 22.25	63.76
+Stephen Spills		21	73.38		NO ACTION	73.38
+Penny Manny		17	30.70		SHOP - 13.75	16.95
+---------------------------------------------------------------------------
+There are 7 persons on the list: 2 works, 4 shops, and 1 invalid-action code.
+
+End - MY Company

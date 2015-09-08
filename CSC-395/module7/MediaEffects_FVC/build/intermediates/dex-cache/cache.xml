@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-0d1f6392cfec942cc82f1c7d8ac7dcdb600d4b6e.jar" />
+    </item>
+    <item
+        jar="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/classes-50f9b7f2622b97d4aca3ce4d378796bfb9afee67.jar" />
+    </item>
+    <item
+        jar="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/classes-5711d8da0506ac3740c50d85834943d26541d83e.jar" />
+    </item>
+    <item
+        jar="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/classes-4cdfc1240c8b9f93c0ba24a7c87d0d76cc0dd68d.jar" />
+    </item>
+    <item
+        jar="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-09d8b6bef6817aa0bcce27892f851c6174e27a3a.jar" />
+    </item>
+    <item
+        jar="/Users/fvcproductions/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b89c9c4b2acac4b92147b941dd8b702dd9553fe7.jar" />
+    </item>
+
+</items>

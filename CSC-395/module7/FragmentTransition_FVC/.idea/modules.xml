@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application/Coronel_FragmentTransition.iml" filepath="$PROJECT_DIR$/Application/Coronel_FragmentTransition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentTransition.iml" filepath="$PROJECT_DIR$/FragmentTransition.iml" />
+    </modules>
+  </component>
+</project>
+

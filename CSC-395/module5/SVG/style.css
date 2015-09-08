@@ -1,0 +1,12 @@
+body {
+    padding: 1em;
+    background: #2B3134;
+    color: white;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+h1 {
+    font-weight: lighter;
+}

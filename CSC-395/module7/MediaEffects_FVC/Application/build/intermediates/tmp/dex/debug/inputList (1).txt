@@ -1,0 +1,7 @@
+/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/classes/debug
+/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-0d1f6392cfec942cc82f1c7d8ac7dcdb600d4b6e.jar
+/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b89c9c4b2acac4b92147b941dd8b702dd9553fe7.jar
+/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/classes-50f9b7f2622b97d4aca3ce4d378796bfb9afee67.jar
+/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/classes-5711d8da0506ac3740c50d85834943d26541d83e.jar
+/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-09d8b6bef6817aa0bcce27892f851c6174e27a3a.jar
+/Users/fvcproductions/AndroidStudioProjects/MediaEffects_FVC/Application/build/intermediates/pre-dexed/debug/classes-4cdfc1240c8b9f93c0ba24a7c87d0d76cc0dd68d.jar

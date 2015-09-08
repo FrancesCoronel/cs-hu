@@ -1,0 +1,48 @@
+Title|Year|Lifetime Gross
+Marvel's The Avengers|2012|623357910
+The Dark Knight|2008|534858444
+Star Wars: Episode I - The Phantom Menace|1999|474544677
+Star Wars|1977|460998007
+The Dark Knight Rises|2012|448139099
+Star Wars: Episode III - Revenge of the Sith|2005|380270577
+The Lord of the Rings: The Two Towers|2002|342551365
+Guardians of the Galaxy|2014|333176600
+Star Wars: Episode II - Attack of the Clones|2002|310676740
+Inception|2010|292576195
+The Matrix Reloaded|2003|281576461
+Raiders of the Lost Ark|1981|248159971
+X-Men: Days of Future Past|2014|233921534
+The Bourne Ultimatum|2007|227471070
+Rush Hour 2|2001|226164286
+Saving Private Ryan|1998|216540909
+Batman Begins|2005|206852432
+Terminator 2: Judgment Day|1991|204843345
+Monsters Vs. Aliens|2009|198351526
+Indiana Jones and the Last Crusade|1989|197171806
+Gladiator|2000|187705427
+The Matrix|1999|171479930
+The Heat|2013|159582188
+Rush Hour|1998|141186864
+Rush Hour 3|2007|140125968
+The Matrix Revolutions|2003|139313948
+Ransom|1996|136492681
+Live Free or Die Hard|2007|134529403
+Rango|2011|123477607
+Die Hard 2: Die Harder|1990|117540947
+Kingsman: The Secret Service|2015|114597783
+The General's Daughter|1999|102705852
+Cowboys & Aliens|2011|100240551
+Die Hard: With A Vengeance|1995|100012499
+The Lone Ranger|2013|89302115
+Aliens|1986|85160248
+Die Hard|1988|83008852
+Braveheart|1995|75609945
+V for Vendetta|2006|70511035
+Heat|1995|67436818
+A Good Day to Die Hard|2013|67349198
+Open Range|2003|58331254
+Home on the Range|2004|50030461
+Aliens Vs. Predator - Requiem|2007|41797066
+The Terminator|1984|38371200
+City Heat|1984|38348988
+Mighty Morphin' Power Rangers|1995|38187431

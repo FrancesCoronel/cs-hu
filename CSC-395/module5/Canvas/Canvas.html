@@ -1,0 +1,164 @@
+<!--
+	Create a new file in your WebContent, called LASTNAME_Canvas.html 
+	
+	(reference: http://www.w3schools.com/html/html5_canvas.asp)
+	
+	A. Using Given example to draw line, circle, boxes, text, and gradient to create a nice drawing. Make sure that you have a theme or story of this picture
+	 
+	You should have the minimum of
+	
+	- 5 circles
+	- 5 boxes
+	- 5 lines
+	- 3 texts
+	- At least 5 colors
+	- Different gradients when filled the circles/boxes
+	
+	B. Adding Animation: http://www.w3schools.com/js/js_timing.asp
+	
+	- Using timer to create animation of your canvas – e.g. to move some circles around
+	- You should have at least 5 sequence of animations
+	[Think about your first assignment]
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google Canvas</title>
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="words">
+		<h1>The Canvas</h1>
+	</div>
+	<div class="container">
+		<div class="logo">
+	    	<canvas id="myCanvas" width="100%" height="100%"></canvas>
+			<script>
+				var canvas = document.getElementById('myCanvas');
+				canvas.width = window.innerWidth;
+		    	canvas.height = window.innerHeight;
+				var context = canvas.getContext('2d');
+				var weight = Math.pow(Math.random(), 2);
+		      	var min = (canvas.width < canvas.height) ? canvas.width : canvas.height;
+		      	var widthCenter = canvas.width/2;
+				 
+				// Filling Circle with Colors of Google Logo
+				// Punch Color
+				context.beginPath();
+				context.arc(widthCenter-100, 285, 150, 0, 2 * Math.PI, false);
+				context.fillStyle = '#DB4734';
+				context.fill();  
+
+				// Shamrock Green Color
+				context.beginPath();
+				context.arc(widthCenter-80, 285, 150, 0, 2 * Math.PI, false);
+				context.fillStyle = '#009B57';
+				context.fill();
+
+				// Navy Blue Color
+				context.beginPath();
+				context.arc(widthCenter-60, 285, 150, 0, 2 * Math.PI, false);
+				context.fillStyle = '#1368EA';
+				context.fill();
+
+				// Mikado Yellow Color
+				context.beginPath();
+				context.arc(widthCenter-40, 285, 150, 0, 2 * Math.PI, false);
+				context.fillStyle = '#FFBC0C';
+				context.fill();
+
+				// Punch Color
+				context.beginPath();
+				context.arc(widthCenter-20, 285, 150, 0, 2 * Math.PI, false);
+				context.fillStyle = '#DB4734';
+				context.fill();
+
+				// Navy Blue Color
+				context.beginPath();
+				context.arc(widthCenter, 285, 150, 0, 2 * Math.PI, false);
+				context.fillStyle = '#1368EA';
+				context.fill();
+
+				// The letter G
+				context.beginPath();
+				context.lineWidth = 0;
+				context.fillStyle = 'white';
+				context.font="100px Roboto";
+				context.fillText("G", widthCenter-30,320);
+				context.fill();
+				context.closePath();
+
+				function makeBlueCircles() {
+					for (var i = 0; i < 3; i++) {
+						var theX = Math.floor(Math.floor(weight * ((min / 2) - 0 + 1)));
+			      		var theY = Math.floor(Math.random() * canvas.height);
+			      		var theR = Math.floor(Math.random() * canvas.width);
+						context.beginPath();
+						context.arc(theR - (theX / 2), theY - (theX / 2), theX / 3, 0, 2*Math.PI);
+						context.fillStyle = '#1368EA';
+						context.fill(); 
+						context.closePath();
+					}
+				};
+
+				setInterval(function () {
+					makeBlueCircles()
+				}, 3000);
+
+				function makeRedCircles() {
+					for (var i = 0; i < 3; i++) {
+						var theX = Math.floor(Math.floor(weight * ((min / 2) - 0 + 1)));
+			      		var theY = Math.floor(Math.random() * canvas.height);
+			      		var theR = Math.floor(Math.random() * canvas.width);
+						context.beginPath();
+						context.arc(theR - (theX / 2), theY - (theX / 2), theX / 3, 0, 2*Math.PI);
+						context.fillStyle = '#DB4734';
+						context.fill(); 
+						context.closePath();
+					}	
+				}
+
+				setInterval(function () {
+					makeRedCircles()
+				}, 3000);				
+				
+				function makeYellowCircles() {
+					for (var i = 0; i < 3; i++) {
+						var theX = Math.floor(Math.floor(weight * ((min / 2) - 0 + 1)));
+			      		var theY = Math.floor(Math.random() * canvas.height);
+			      		var theR = Math.floor(Math.random() * canvas.width);
+						context.beginPath();
+						context.arc(theR - (theX / 2), theY - (theX / 2), theX / 3, 0, 2*Math.PI);
+						context.fillStyle = '#FFBC0C';
+						context.fill(); 
+						context.closePath();
+					}
+				}
+
+				setInterval(function () {
+					makeYellowCircles()
+				}, 3000);
+
+				function makeGreenCircles() {
+					for (var i = 0; i < 3; i++) {
+						var theX = Math.floor(Math.floor(weight * ((min / 2) - 0 + 1)));
+			      		var theY = Math.floor(Math.random() * canvas.height);
+			      		var theR = Math.floor(Math.random() * canvas.width);
+						context.beginPath();
+						context.arc(theR - (theX / 2), theY - (theX / 2), theX / 3, 0, 2*Math.PI);
+						context.fillStyle = '#009B57';
+						context.fill(); 
+						context.closePath();
+					}
+				}
+
+				setInterval(function () {
+					makeGreenCircles()
+				}, 3000);
+
+			</script>
+		</div>
+	</div>
+</body>
+</html>

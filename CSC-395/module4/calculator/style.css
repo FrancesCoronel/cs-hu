@@ -1,0 +1,66 @@
+html {
+    background: #272c2f url(http://goo.gl/KMUPT);
+    color: #333;
+    font-family: 'Open Sans', sans serif;
+    font-size: 10px;
+    font-style, font-weight, letter-spacing, line-height, word-spacing: normal;
+}
+h1,
+h2 {
+    color: white;
+    font-family: 'Open Sans', sans serif;
+    font-size: 25px;
+    font-style, font-weight, letter-spacing, line-height, word-spacing: normal;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+}
+#calculator {
+    margin: auto;
+    margin-top: 25px;
+    padding: 10px;
+    width: 320px;
+    height: 372px;
+    background: #eee;
+    box-shadow: 0 0 25px 0 #000;
+}
+.top .screen {
+    padding: 30px;
+    width: 260px;
+    height: 60px;
+    background: white;
+    border: 0;
+    border-bottom: 8px solid #eee;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 4rem;
+    font-weight: 300;
+    letter-spacing: 0.3rem;
+    text-align: right;
+}
+.keys,
+.top {
+    overflow: hidden;
+}
+.keys span,
+.top span {
+    float: left;
+    margin: 0 1px 1px 0;
+    width: 79px;
+    height: 60px;
+    background: #fff;
+    display: inline-block;
+    font-size: 1.3rem;
+    line-height: 6.2rem;
+    text-align: center;
+    -webkit-transition: all 0.5s;
+}
+.keys span:.clear {
+    width: 130px;
+}
+/* Some hover effects */
+
+.keys span:hover {
+    background: #eee;
+    -webkit-transition: all 0.1s;
+}

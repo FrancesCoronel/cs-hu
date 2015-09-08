@@ -1,0 +1,23 @@
+* For Mac users *
+
+1. Download sox-14.4.0-macosx.zip from http://sourceforge.net/projects/sox (the website should detect the 
+download appropriate for your system).
+
+2. Unzip the file and remember the location of that folder.  (To get the location, right-click on the folder, and 
+choose "Get Info".  Look for "Where:".  What appears after is the location of the folder, e.g. 
+"/Users/fvcproductions/sox-14.4.1".)
+
+3. Open Terminal.
+
+4. In Terminal, type: cd <sox folder> (use quotes if there is a space in the name)
+  
+   e.g. cd /Users/fvcproductions/sox-14.4.1
+	(this folder has no spaces, so no quotes are necessary)
+
+7. Copy secret.wav from the homework webpage into the sox folder
+
+8. In Terminal: (with the sound file you wish to convert in the sox folder as well), type
+
+    ./sox secret.wav secret.dat
+
+9. Now you should see the converted file secret.dat in the sox folder.

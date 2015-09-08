@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<display-name>moviesApp</display-name>
+
+<context-param>
+	<param-name>jdbcDriver</param-name>
+	<param-value>com.mysql.jdbc.Driver</param-value> 
+</context-param>
+
+<context-param>
+	<param-name>databaseURL</param-name>
+	<param-value>jdbc:mysql://local:3306/moviesdb</param-value> 
+</context-param>
+
+<context-param>
+      <param-name>username</param-name>
+      <param-value>yourusername</param-value>
+</context-param>
+
+<context-param>
+      <param-name>password</param-name>
+      <param-value>yourpassword</param-value>
+   </context-param>

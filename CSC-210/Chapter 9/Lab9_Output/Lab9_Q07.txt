@@ -1,0 +1,20 @@
+One Flew Over the Cuckoo's Nest|1975|Drama|8.7
+Se7en|1995|Drama; Mystery; Thriller|8.7
+Seven Samurai|1954|Drama|8.7
+Star Wars|1977|Action; Adventure; Fantasy; Sci-Fi|8.7
+The Matrix|1999|Action; Sci-Fi|8.7
+The Usual Suspects|1995|Crime; Drama; Thriller|8.7
+Forrest Gump|1994|Drama; Romance|8.8
+Inception|2010|Action; Mystery; Sci-Fi; Thriller|8.8
+Interstellar|2014|Adventure; Sci-Fi|8.8
+The Lord of the Rings: The Fellowship of the Ring|2001|Adventure; Fantasy|8.8
+12 Angry Men|1957|Drama|8.9
+Fight Club|1999|Drama|8.9
+Pulp Fiction|1994|Crime; Drama; Thriller|8.9
+Schindler's List|1993|Biography; Drama; History|8.9
+The Good, the Bad and the Ugly|1966|Western|8.9
+The Lord of the Rings: The Return of the King|2003|Adventure; Fantasy|8.9
+The Dark Knight|2008|Action; Crime; Drama|9.0
+The Godfather: Part II|1974|Crime; Drama|9.1
+The Godfather|1972|Crime; Drama|9.2
+The Shawshank Redemption|1994|Crime; Drama|9.3

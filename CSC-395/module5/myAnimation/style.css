@@ -1,0 +1,72 @@
+/*
+  FVCproductions
+  2015
+  Cookie Baking App
+
+  fun cursors taken from cursors-4u.com
+ */
+
+body {
+  font-family: Lato, sans-serif;
+  text-align: center;
+  font-size: 15px;
+  padding: 5px;
+}
+
+h1 {
+  font-size: 50px;
+  color: chocolate;
+}
+
+h2 {
+  font-size: 40px;
+  color: black;
+}
+
+h3,h4 {
+  font-size: 30px;
+  color: orange;
+}
+
+a {
+  color: coral;
+  text-decoration: none;
+  cursor: url(http://cur.cursors-4u.net/symbols/sym-1/sym57.cur), progress !important;
+}
+
+div {
+  width: 50%;
+  border: 10px solid chocolate;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+/* slightly fancy button */
+
+button {
+  margin: 0px 10px 10px 0px;
+  border-radius: 10px;
+  text-color: black;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Lato, sans-serif;
+  background-color: #F2CF66;
+  border-bottom: 5px solid #D1B358;
+  cursor: url(http://cur.cursors-4u.net/anime/ani-11/ani1063.ani), url(http://cur.cursors-4u.net/anime/ani-11/ani1063.png), progress !important;
+}
+
+/* fun cursors all abound */
+
+.use-sugar, .use-flour {
+  cursor: url(http://cur.cursors-4u.net/food/foo-7/foo648.cur), progress !important;
+}
+
+.buy-sugar, .buy-flour {
+  cursor: url(http://cur.cursors-4u.net/others/oth-2/oth192.cur), progress !important;
+}
+
+img, .cook-cookie {
+  cursor: url(http://cur.cursors-4u.net/food/foo-6/foo523.cur), progress !important;
+}

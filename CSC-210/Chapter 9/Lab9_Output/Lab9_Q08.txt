@@ -1,0 +1,20 @@
+Metropolis|1927|Drama; Sci-Fi|Germany
+M|1931|Crime; Drama; Thriller|Germany
+Judgment at Nuremberg|1961|Drama; History; War|USA
+A Fistful of Dollars|1964|Action; Western|Italy;Spain;West Germany
+For a Few Dollars More|1965|Western|Italy;Spain;West Germany
+The Good, the Bad and the Ugly|1966|Western|Italy;Spain;West Germany;USA
+Das Boot|1981|Adventure; Drama; War|West Germany
+Fanny and Alexander|1982|Drama|Sweden;France;West Germany
+The Usual Suspects|1995|Crime; Drama; Thriller|USA;Germany
+Fight Club|1999|Drama|USA;Germany
+Amelie|2001|Comedy; Romance|France;Germany
+The Pianist|2002|Biography; Drama; War|France;Poland;Germany;UK
+Inglourious Basterds|2009|Adventure; Drama; War|USA;Germany
+Downfall|2004|Biography; Drama; History; War|Germany;Austria;Italy
+The Lives of Others|2006|Drama; Thriller|Germany
+V for Vendetta|2005|Action; Drama; Thriller|USA;UK;Germany
+The Bourne Ultimatum|2007|Action; Thriller|USA;Germany
+Gran Torino|2008|Drama|USA;Germany
+Rush|2013|Action; Biography; Drama; Sport|UK;Germany
+The Grand Budapest Hotel|2014|Adventure; Comedy; Drama|USA;Germany;UK

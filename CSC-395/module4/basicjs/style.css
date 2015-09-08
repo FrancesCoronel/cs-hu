@@ -1,0 +1,22 @@
+* {
+    font-family: "Open Sans", sans serif;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+table {
+    width: 95%;
+}
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 20px;
+}
+p {
+    font-size: 15px;
+}
+.left {
+    text-align: left;
+}

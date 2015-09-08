@@ -1,0 +1,22 @@
+add "hello"
+size
+printForward
+printReverse
+isEmpty
+clear
+add "goodbye"
+add "okay"
+go "sing"
+add "sing"
+add "jennifer"
+add "happy"
+get "jennifer"
+get"car"
+get "move"
+remove "goodbye"
+remove "jennifer"
+printReverse
+remove "happy"
+print Reverse
+printForward
+printReverse

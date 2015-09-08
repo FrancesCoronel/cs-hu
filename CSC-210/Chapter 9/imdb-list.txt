@@ -1,0 +1,2001 @@
+Rank|Title|Year|Lifetime Gross|Studio
+1|Avatar|2009|760507625|Fox
+2|Titanic|1997|658672302|Par.
+3|Marvel's The Avengers|2012|623357910|BV
+4|The Dark Knight|2008|534858444|WB
+5|Star Wars: Episode I - The Phantom Menace|1999|474544677|Fox
+6|Star Wars|1977|460998007|Fox
+7|The Dark Knight Rises|2012|448139099|WB
+8|Shrek 2|2004|441226247|DW
+9|E.T.: The Extra-Terrestrial|1982|435110554|Uni.
+10|The Hunger Games: Catching Fire|2013|424668047|LGF
+11|Pirates of the Caribbean: Dead Man's Chest|2006|423315812|BV
+12|The Lion King|1994|422783777|BV
+13|Toy Story 3|2010|415004880|BV
+14|Iron Man 3|2013|409013994|BV
+15|The Hunger Games|2012|408010692|LGF
+16|Spider-Man|2002|403706375|Sony
+17|Jurassic Park|1993|402453882|Uni.
+18|Transformers: Revenge of the Fallen|2009|402111870|P/DW
+19|Frozen|2013|400738009|BV
+20|Harry Potter and the Deathly Hallows Part 2|2011|381011219|WB
+21|Finding Nemo|2003|380843261|BV
+22|Star Wars: Episode III - Revenge of the Sith|2005|380270577|Fox
+23|The Lord of the Rings: The Return of the King|2003|377845905|NL
+24|Spider-Man 2|2004|373585825|Sony
+25|The Passion of the Christ|2004|370782930|NM
+26|Despicable Me 2|2013|368061265|Uni.
+27|Transformers: Dark of the Moon|2011|352390543|P/DW
+28|American Sniper|2014|343969003|WB
+29|The Lord of the Rings: The Two Towers|2002|342551365|NL
+30|The Hunger Games: Mockingjay - Part 1|2014|337135885|LGF
+31|Spider-Man 3|2007|336530303|Sony
+32|Alice in Wonderland (2010)|2010|334191110|BV
+33|Guardians of the Galaxy|2014|333176600|BV
+34|Forrest Gump|1994|330252182|Par.
+35|Shrek the Third|2007|322719944|P/DW
+36|Transformers|2007|319246193|P/DW
+37|Iron Man|2008|318412101|Par.
+38|Harry Potter and the Sorcerer's Stone|2001|317575550|WB
+39|Indiana Jones and the Kingdom of the Crystal Skull|2008|317101119|Par.
+40|The Lord of the Rings: The Fellowship of the Ring|2001|315544750|NL
+41|Iron Man 2|2010|312433331|Par.
+42|Star Wars: Episode II - Attack of the Clones|2002|310676740|Fox
+43|Pirates of the Caribbean: At World's End|2007|309420425|BV
+44|Return of the Jedi|1983|309306177|Fox
+45|Independence Day|1996|306169268|Fox
+46|Pirates of the Caribbean: The Curse of the Black Pearl|2003|305413918|BV
+47|Skyfall|2012|304360277|Sony
+48|The Hobbit: An Unexpected Journey|2012|303003568|WB
+49|Harry Potter and the Half-Blood Prince|2009|301959197|WB
+50|The Twilight Saga: Eclipse|2010|300531751|Sum.
+51|The Twilight Saga: New Moon|2009|296623634|Sum.
+52|Harry Potter and the Deathly Hallows Part 1|2010|295983305|WB
+53|The Sixth Sense|1999|293506292|BV
+54|Up|2009|293004164|BV
+55|Inception|2010|292576195|WB
+56|The Twilight Saga: Breaking Dawn Part 2|2012|292324737|LG/S
+57|Harry Potter and the Order of the Phoenix|2007|292004738|WB
+58|The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005|291710957|BV
+59|Man of Steel|2013|291045518|WB
+60|The Empire Strikes Back|1980|290475067|Fox
+61|Harry Potter and the Goblet of Fire|2005|290013036|WB
+62|Monsters, Inc.|2001|289916256|BV
+63|Home Alone|1990|285761243|Fox
+64|The Matrix Reloaded|2003|281576461|WB
+65|The Twilight Saga: Breaking Dawn Part 1|2011|281287133|Sum.
+66|Meet the Fockers|2004|279261160|Uni.
+67|The Hangover|2009|277322503|WB
+68|Gravity|2013|274092705|WB
+69|Monsters University|2013|268492764|BV
+70|Shrek|2001|267665011|DW
+71|The Amazing Spider-Man|2012|262030663|Sony
+72|Harry Potter and the Chamber of Secrets|2002|261988482|WB
+73|The Incredibles|2004|261441092|BV
+74|How the Grinch Stole Christmas|2000|260044825|Uni.
+75|Jaws|1975|260000000|Uni.
+76|Captain America: The Winter Soldier|2014|259766572|BV
+77|The Hobbit: The Desolation of Smaug|2013|258366855|WB
+78|The LEGO Movie|2014|257760692|WB
+79|Star Trek|2009|257730019|Par.
+80|I Am Legend|2007|256393010|WB
+81|The Blind Side|2009|255959475|WB
+82|The Hobbit: The Battle of the Five Armies|2014|255043150|WB
+83|The Hangover Part II|2011|254464305|WB
+84|Despicable Me|2010|251513985|Uni.
+85|Batman|1989|251188924|WB
+86|Night at the Museum|2006|250863268|Fox
+87|Men in Black|1997|250690539|Sony
+88|Harry Potter and the Prisoner of Azkaban|2004|249541069|WB
+89|Raiders of the Lost Ark|1981|248159971|Par.
+90|Toy Story 2|1999|245852179|BV
+91|Transformers: Age of Extinction|2014|245439076|Par.
+92|Cars|2006|244082982|BV
+93|Bruce Almighty|2003|242829261|Uni.
+94|Ghostbusters|1984|242212467|Col.
+95|Twister|1996|241721524|WB
+96|My Big Fat Greek Wedding|2002|241438208|IFC
+97|Maleficent|2014|241410378|BV
+98|Pirates of the Caribbean: On Stranger Tides|2011|241071802|BV
+99|Shrek Forever After|2010|238736787|P/DW
+100|Fast & Furious 6|2013|238679850|Uni.
+101|Brave|2012|237283207|BV
+102|Oz The Great and Powerful|2013|234911825|BV
+103|Beverly Hills Cop|1984|234760478|Par.
+104|X-Men: The Last Stand|2006|234362462|Fox
+105|War of the Worlds|2005|234280354|Par.
+106|X-Men: Days of Future Past|2014|233921534|Fox
+107|Cast Away|2000|233632142|Fox
+108|The Exorcist|1973|232906145|WB
+109|The Lost World: Jurassic Park|1997|229086679|Uni.
+110|Star Trek Into Darkness|2013|228778661|Par.
+111|Signs|2002|227966634|BV
+112|Hancock|2008|227946274|Sony
+113|The Bourne Ultimatum|2007|227471070|Uni.
+114|Rush Hour 2|2001|226164286|NL
+115|WALL-E|2008|223808164|BV
+116|Big Hero 6|2014|221968880|BV
+117|National Treasure: Book of Secrets|2007|219964115|BV
+118|Alvin and the Chipmunks: The Squeakquel|2009|219614612|Fox
+119|Mrs. Doubtfire|1993|219195243|Fox
+120|Beauty and the Beast|1991|218967620|BV
+121|Ted|2012|218815487|Uni.
+122|King Kong|2005|218080025|Uni.
+123|Ghost|1990|217631306|Par.
+124|How to Train Your Dragon|2010|217581231|P/DW
+125|The Da Vinci Code|2006|217536138|Sony
+126|Aladdin|1992|217350219|BV
+127|Alvin and the Chipmunks|2007|217326974|Fox
+128|Saving Private Ryan|1998|216540909|DW
+129|Madagascar 3: Europe's Most Wanted|2012|216391482|P/DW
+130|Kung Fu Panda|2008|215434591|P/DW
+131|Mission: Impossible II|2000|215409889|Par.
+132|X2: X-Men United|2003|214949694|Fox
+133|Dr. Seuss' The Lorax|2012|214030500|Uni.
+134|Austin Powers in Goldmember|2002|213307889|NL
+135|300|2007|210614939|WB
+136|Back to the Future|1985|210609762|Uni.
+137|Fast Five|2011|209837675|Uni.
+138|Mission: Impossible - Ghost Protocol|2011|209397903|Par.
+139|Wedding Crashers|2005|209255921|NL
+140|Sherlock Holmes|2009|209028679|WB
+141|Dawn of the Planet of the Apes|2014|208545589|Fox
+142|Batman Begins|2005|206852432|WB
+143|Charlie and the Chocolate Factory|2005|206459076|WB
+144|Ratatouille|2007|206445654|BV
+145|Thor: The Dark World|2013|206362140|BV
+146|Austin Powers: The Spy Who Shagged Me|1999|206040086|NL
+147|Terminator 2: Judgment Day|1991|204843345|TriS
+148|The Amazing Spider-Man 2|2014|202853933|Sony
+149|World War Z|2013|202359711|Par.
+150|The Mummy Returns|2001|202019785|Uni.
+151|Armageddon|1998|201578182|BV
+152|Tangled|2010|200821936|BV
+153|Godzilla (2014)|2014|200676069|WB
+154|Superman Returns|2006|200081192|WB
+155|Gone with the Wind|1939|198676459|MGM
+156|Pearl Harbor|2001|198542554|BV
+157|Monsters Vs. Aliens|2009|198351526|P/DW
+158|Happy Feet|2006|198000317|WB
+159|Indiana Jones and the Last Crusade|1989|197171806|Par.
+160|Ice Age: Dawn of the Dinosaurs|2009|196573705|Fox
+161|Ice Age: The Meltdown|2006|195330621|Fox
+162|Madagascar|2005|193595521|DW
+163|Twilight|2008|192769854|Sum.
+164|Toy Story|1995|191796233|BV
+165|22 Jump Street|2014|191719337|Sony
+166|Cars 2|2011|191452396|BV
+167|Teenage Mutant Ninja Turtles (2014)|2014|191204754|Par.
+168|Men in Black II|2002|190418803|Sony
+169|Wreck-It Ralph|2012|189422889|BV
+170|Grease|1978|188755690|Par.
+171|Interstellar|2014|188020017|Par.
+172|Gladiator|2000|187705427|DW
+173|The Croods|2013|187168425|Fox
+174|Sherlock Holmes: A Game of Shadows|2011|186848418|WB
+175|The Day After Tomorrow|2004|186740799|Fox
+176|Mr. & Mrs. Smith|2005|186336279|Fox
+177|Snow White and the Seven Dwarfs|1937|184925486|Dis.
+178|Dances with Wolves|1990|184208848|Orion
+179|Batman Forever|1995|184031112|WB
+180|The Fugitive|1993|183875760|WB
+181|Ocean's Eleven|2001|183417150|WB
+182|The Polar Express|2004|183373735|WB
+183|The Simpsons Movie|2007|183135014|Fox
+184|What Women Want|2000|182811707|Par.
+185|The Perfect Storm|2000|182618434|WB
+186|Lincoln|2012|182207973|BV
+187|Liar Liar|1997|181410615|Uni.
+188|Jurassic Park III|2001|181171875|Uni.
+189|Thor|2011|181030624|Par.
+190|Mission: Impossible|1996|180981856|Par.
+191|Planet of the Apes (2001)|2001|180011740|Fox
+192|Madagascar: Escape 2 Africa|2008|180010950|P/DW
+193|X-Men Origins: Wolverine|2009|179883157|Fox
+194|Indiana Jones and the Temple of Doom|1984|179870271|Par.
+195|Top Gun|1986|179800601|Par.
+196|Hitch|2005|179495555|Sony
+197|MIB 3|2012|179020854|Sony
+198|Pretty Woman|1990|178406268|BV
+199|Night at the Museum: Battle of the Smithsonian|2009|177243721|Fox
+200|Tootsie|1982|177200000|Col.
+201|How to Train Your Dragon 2|2014|177002924|Fox
+202|Rise of the Planet of the Apes|2011|176760185|Fox
+203|Captain America: The First Avenger|2011|176654505|Par.
+204|The Karate Kid|2010|176591618|Sony
+205|There's Something About Mary|1998|176484651|Fox
+206|Ice Age|2002|176387405|Fox
+207|The Bourne Supremacy|2004|176241941|Uni.
+208|Crocodile Dundee|1986|174803506|Par.
+209|Apollo 13|1995|173837933|Uni.
+210|Home Alone 2: Lost in New York|1992|173585516|Fox
+211|Elf|2003|173398518|NL
+212|National Treasure|2004|173008894|BV
+213|Air Force One|1997|172956409|Sony
+214|Rain Man|1988|172825435|MGM
+215|Tron Legacy|2010|172062763|BV
+216|The Matrix|1999|171479930|WB
+217|True Grit|2010|171243005|Par.
+218|Tarzan|1999|171091819|BV
+219|A Beautiful Mind|2001|170742341|Uni.
+220|Chicago|2002|170687518|Mira.
+221|The Help|2011|169708112|BV
+222|Bridesmaids|2011|169106725|Uni.
+223|Quantum of Solace|2008|168368427|Sony
+224|Wild Hogs|2007|168273550|BV
+225|Three Men and a Baby|1987|167780960|BV
+226|Gone Girl|2014|167767189|Fox
+227|Casino Royale|2006|167445960|Sony
+228|Meet the Parents|2000|166244045|Uni.
+229|2012|2009|166112167|Sony
+230|Robin Hood: Prince of Thieves|1991|165493908|WB
+231|Kung Fu Panda 2|2011|165249063|P/DW
+232|Hannibal|2001|165092268|MGM
+233|Catch Me If You Can|2002|164615351|DW
+234|The Proposal|2009|163958031|BV
+235|Fifty Shades of Grey|2015|163839685|Uni.
+236|The Pursuit of Happyness|2006|163566459|Sony
+237|Big Daddy|1999|163479795|Sony
+238|Clash of the Titans (2010)|2010|163214888|WB
+239|Batman Returns|1992|162831698|WB
+240|Django Unchained|2012|162805434|Wein.
+241|A Bug's Life|1998|162798565|BV
+242|Grown Ups|2010|162001186|Sony
+243|The Waterboy|1998|161491646|BV
+244|Ice Age: Continental Drift|2012|161321843|Fox
+245|Die Another Day|2002|160942139|MGM
+246|Shark Tale|2004|160861908|DW
+247|The Heat|2013|159582188|Fox
+248|The SpongeBob Movie: Sponge Out of Water|2015|158838829|Par.
+249|The Sound of Music|1965|158671368|Fox
+250|The Firm|1993|158348367|Par.
+251|The Longest Yard|2005|158119460|Par.
+252|X-Men|2000|157299717|Fox
+253|Scary Movie|2000|157019771|Mira.
+254|Fatal Attraction|1987|156645693|Par.
+255|Who Framed Roger Rabbit|1988|156452370|BV
+256|The Sting|1973|156000000|Uni.
+257|What Lies Beneath|2000|155464351|DW
+258|The Mummy|1999|155385488|Uni.
+259|Snow White and the Huntsman|2012|155332381|Uni.
+260|Fast and Furious|2009|155064265|Uni.
+261|Over the Hedge|2006|155019340|P/DW
+262|Fantastic Four (2005)|2005|154696080|Fox
+263|Dr. Seuss' Horton Hears a Who!|2008|154529439|Fox
+264|Jerry Maguire|1996|153952592|Sony
+265|Beverly Hills Cop II|1987|153665036|Par.
+266|Scooby-Doo|2002|153294164|WB
+267|Gremlins|1984|153083102|WB
+268|Sex and the City|2008|152647258|WB (NL)
+269|Runaway Bride|1999|152257509|Par.
+270|Divergent|2014|150947895|LG/S
+271|Rambo: First Blood Part II|1985|150415432|TriS
+272|We're the Millers|2013|150394119|WB
+273|Terminator 3: Rise of the Machines|2003|150371112|WB
+274|G.I. Joe: The Rise of Cobra|2009|150201498|Par.
+275|Neighbors|2014|150157400|Uni.
+276|American Hustle|2013|150117807|Sony
+277|Puss in Boots|2011|149260504|P/DW
+278|Les Miserables (2012)|2012|148809770|Uni.
+279|Knocked Up|2007|148768917|Uni.
+280|As Good as It Gets|1997|148478011|Sony
+281|Little Fockers|2010|148438600|Uni.
+282|Megamind|2010|148415853|P/DW
+283|Hotel Transylvania|2012|148313048|Sony
+284|Talladega Nights: The Ballad of Ricky Bobby|2006|148213377|Sony
+285|Gran Torino|2008|148095302|WB
+286|Lethal Weapon 2|1989|147253986|WB
+287|X-Men: First Class|2011|146408305|Fox
+288|Paul Blart: Mall Cop|2009|146336178|Sony
+289|True Lies|1994|146282411|Fox
+290|Lilo & Stitch|2002|145794338|BV
+291|American Pie 2|2001|145103595|Uni.
+292|Taken|2009|145000989|Fox
+293|101 Dalmatians|1961|144880014|Dis.
+294|The Great Gatsby (2013)|2013|144840419|WB
+295|The Santa Clause|1994|144833357|BV
+296|I, Robot|2004|144801023|Fox
+297|Lethal Weapon 3|1992|144731527|WB
+298|The Fast and the Furious|2001|144533925|Uni.
+299|Doctor Dolittle|1998|144156605|Fox
+300|Mamma Mia!|2008|144130063|Uni.
+301|Rio|2011|143619809|Fox
+302|Juno|2007|143495265|FoxS
+303|Marley and Me|2008|143153751|Fox
+304|The Smurfs|2011|142614158|Sony
+305|XXX|2002|142109382|SonR
+306|The Jungle Book|1967|141843612|Dis.
+307|The Chronicles of Narnia: Prince Caspian|2008|141621490|BV
+308|National Lampoon's Animal House|1978|141600000|Uni.
+309|Pocahontas|1995|141579773|BV
+310|A Few Good Men|1992|141340178|Col.
+311|Slumdog Millionaire|2008|141319928|FoxS
+312|Rush Hour|1998|141186864|NL
+313|The Blair Witch Project|1999|140539099|Art.
+314|Deep Impact|1998|140464664|Par.
+315|Rush Hour 3|2007|140125968|NL
+316|Look Who's Talking|1989|140088813|TriS
+317|Stuart Little|1999|140035367|Sony
+318|Taken 2|2012|139854287|Fox
+319|Sister Act|1992|139605150|BV
+320|The Matrix Revolutions|2003|139313948|WB
+321|The Santa Clause 2|2002|139236327|BV
+322|The King's Speech|2010|138797449|Wein.
+323|Cheaper by the Dozen|2003|138614544|Fox
+324|Bad Boys II|2003|138608444|Sony
+325|Platoon|1986|138530565|Orion
+326|21 Jump Street|2012|138447667|Sony
+327|Good Will Hunting|1997|138433435|Mira.
+328|A Christmas Carol (2009)|2009|137855863|BV
+329|Dinosaur|2000|137748063|BV
+330|The Conjuring|2013|137400141|WB
+331|Click|2006|137355633|SonR
+332|The Green Mile|1999|136801374|WB
+333|Ransom|1996|136492681|BV
+334|Godzilla|1998|136314294|Sony
+335|101 Dalmatians (1996)|1996|136189294|BV
+336|Argo|2012|136025503|WB
+337|Anger Management|2003|135645823|SonR
+338|Chicken Little|2005|135386665|BV
+339|Teenage Mutant Ninja Turtles|1990|135265915|NL
+340|Patch Adams|1998|135026902|Uni.
+341|The Godfather|1972|134966411|Par.
+342|Ride Along|2014|134938200|Uni.
+343|The Incredible Hulk|2008|134806913|Uni.
+344|Live Free or Die Hard|2007|134529403|Fox
+345|Wanted|2008|134508551|Uni.
+346|Identity Thief|2013|134506920|Uni.
+347|Superman|1978|134218018|WB
+348|The Rock|1996|134069511|BV
+349|Mission: Impossible III|2006|134029801|Par.
+350|Grown Ups 2|2013|133668525|Sony
+351|Troy|2004|133378256|WB
+352|Angels & Demons|2009|133375846|Sony
+353|Alvin and the Chipmunks: Chipwrecked|2011|133110742|Fox
+354|Bringing Down the House|2003|132716677|BV
+355|The Wolverine|2013|132556852|Fox
+356|The Departed|2006|132384315|WB
+357|Hulk|2003|132177234|Uni.
+358|Silver Linings Playbook|2012|132092958|Wein.
+359|Close Encounters of the Third Kind|1977|132088635|Col.
+360|Minority Report|2002|132072926|Fox
+361|Fantastic Four: Rise of the Silver Surfer|2007|131921738|Fox
+362|The Last Airbender|2010|131772187|Par.
+363|Rio 2|2014|131538435|Fox
+364|Lara Croft: Tomb Raider|2001|131168070|Par.
+365|The Silence of the Lambs|1991|130742922|Orion
+366|Honey, I Shrunk the Kids|1989|130724172|BV
+367|The Flintstones|1994|130531208|Uni.
+368|Lethal Weapon 4|1998|130444603|WB
+369|Get Smart|2008|130319208|WB
+370|American Gangster|2007|130164645|Uni.
+371|American Beauty|1999|130096601|DW
+372|An Officer and a Gentleman|1982|129795554|Par.
+373|The Ring|2002|129128133|DW
+374|The Nutty Professor (1996)|1996|128814019|Uni.
+375|Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006|128505958|Fox
+376|Robots|2005|128200012|Fox
+377|Coming to America|1988|128152301|Par.
+378|Crouching Tiger, Hidden Dragon|2000|128078872|SPC
+379|Shutter Island|2010|128012934|Par.
+380|Rocky IV|1985|127873716|UA
+381|Enchanted|2007|127807262|BV
+382|Into the Woods|2014|127746251|BV
+383|The Curious Case of Benjamin Button|2008|127509326|Par.
+384|Anchorman 2: The Legend Continues|2013|127352707|Par.
+385|Sweet Home Alabama|2002|127223418|BV
+386|Dumb and Dumber|1994|127175374|NL
+387|2 Fast 2 Furious|2003|127154901|Uni.
+388|My Best Friend's Wedding|1997|127120029|Sony
+389|Super 8|2011|127004179|Par.
+390|The World Is Not Enough|1999|126943684|MGM
+391|Smokey and the Bandit|1977|126737428|Uni.
+392|Sleepless in Seattle|1993|126680884|TriS
+393|Lucy|2014|126663600|Uni.
+394|Bee Movie|2007|126631277|P/DW
+395|Prometheus|2012|126477084|Fox
+396|Safe House|2012|126373434|Uni.
+397|Mr. Deeds|2002|126293452|Sony
+398|The Truman Show|1998|125618201|Par.
+399|Erin Brockovich|2000|125595205|Uni.
+400|Ocean's Twelve|2004|125544280|WB
+401|Terminator Salvation|2009|125322469|WB
+402|Charlie's Angels|2000|125305545|Sony
+403|Tomorrow Never Dies|1997|125304276|MGM
+404|Lone Survivor|2013|125095601|Uni.
+405|Rocky III|1982|125049125|UA
+406|The Vow|2012|125014030|SGem
+407|Life of Pi|2012|124987023|Fox
+408|The Fault in our Stars|2014|124872350|Fox
+409|Cloudy with a Chance of Meatballs|2009|124870275|Sony
+410|The Devil Wears Prada|2006|124740460|Fox
+411|Something's Gotta Give|2003|124728738|Sony
+412|Traffic|2000|124115725|USA
+413|The Birdcage|1996|124060553|MGM
+414|City Slickers|1991|124033791|Col.
+415|Good Morning, Vietnam|1987|123922370|BV
+416|Rango|2011|123477607|Par.
+417|The Nutty Professor II: The Klumps|2000|123309890|Uni.
+418|G.I. Joe: Retaliation|2013|122523060|Par.
+419|Cinderella (2015)|2015|122516793|BV
+420|Clear and Present Danger|1994|122187717|Par.
+421|The Hunt for Red October|1990|122012643|Par.
+422|The Bodyguard|1992|122006740|WB
+423|Wayne's World|1992|121697323|Par.
+424|The Bourne Identity|2002|121661683|Uni.
+425|Superbad|2007|121463226|Sony
+426|Speed|1994|121248145|Fox
+427|50 First Dates|2004|120908074|Sony
+428|Mulan|1998|120620254|BV
+429|Inglourious Basterds|2009|120540719|Wein.
+430|Seabiscuit|2003|120277854|Uni.
+431|Van Helsing|2004|120177084|Uni.
+432|Four Christmases|2008|120146040|WB (NL)
+433|I Now Pronounce You Chuck and Larry|2007|120059556|Uni.
+434|The Mask|1994|119938730|NL
+435|Cloudy with a Chance of Meatballs 2|2013|119793567|Sony
+436|Hook|1991|119654823|TriS
+437|Blazing Saddles|1974|119601481|WB
+438|Walk the Line|2005|119519402|Fox
+439|G-Force|2009|119436770|BV
+440|Total Recall|1990|119412921|Sony
+441|On Golden Pond|1981|119285432|Uni.
+442|The Other Guys|2010|119219978|Sony
+443|Fahrenheit 9/11|2004|119194771|Lions
+444|The Sum of All Fears|2002|118907036|Par.
+445|Hairspray (2007)|2007|118871849|NL
+446|The Break-Up|2006|118703275|Uni.
+447|Lemony Snicket's A Series of Unfortunate Events|2004|118634549|Par.
+448|Blades of Glory|2007|118594548|P/DW
+449|Back to the Future Part II|1989|118450002|Uni.
+450|Salt|2010|118311368|Sony
+451|Basic Instinct|1992|117727224|TriS
+452|Now You See Me|2013|117723989|LG/S
+453|Big Momma's House|2000|117559438|Fox
+454|Die Hard 2: Die Harder|1990|117540947|Fox
+455|Horrible Bosses|2011|117538559|WB (NL)
+456|Rocky|1976|117235147|UA
+457|Jackass 3-D|2010|117229692|Par.
+458|Ocean's Thirteen|2007|117154724|WB
+459|S.W.A.T.|2003|116934650|Sony
+460|The Wolf of Wall Street|2013|116900694|Par.
+461|8 Mile|2002|116750901|Uni.
+462|Double Jeopardy|1999|116741558|Par.
+463|Lee Daniels' The Butler|2013|116632095|Wein.
+464|Green Lantern|2011|116601172|WB
+465|Notting Hill|1999|116089678|Uni.
+466|The Towering Inferno|1974|116000000|Fox
+467|You've Got Mail|1998|115821495|WB
+468|Ghost Rider|2007|115802596|Sony
+469|Remember the Titans|2000|115654751|BV
+470|District 9|2009|115646235|TriS
+471|Unbroken|2014|115637895|Uni.
+472|The Karate Kid Part II|1986|115103979|Col.
+473|American Graffiti|1973|115000000|Uni.
+474|Big|1988|114968774|Fox
+475|Kingsman: The Secret Service|2015|114597783|Fox
+476|DodgeBall: A True Underdog Story|2004|114326736|Fox
+477|The Village|2004|114197520|BV
+478|Bolt|2008|114053579|BV
+479|Wild Wild West|1999|113804681|WB
+480|Magic Mike|2012|113721571|WB
+481|The Addams Family|1991|113502426|Par.
+482|The Patriot|2000|113330342|Sony
+483|The Bourne Legacy|2012|113203870|Uni.
+484|The Pacifier|2005|113086868|BV
+485|Night at the Museum: Secret of the Tomb|2014|112953299|Fox
+486|Dr. Dolittle 2|2001|112952899|Fox
+487|The Rocky Horror Picture Show|1975|112892319|Fox
+488|It's Complicated|2009|112735375|Uni.
+489|Spy Kids|2001|112719001|Mira.
+490|Ghostbusters II|1989|112494738|Col.
+491|Face/Off|1997|112276146|Par.
+492|The Hangover Part III|2013|112200072|WB
+493|Twins|1988|111938388|Uni.
+494|Spy Kids 3D: Game Over|2003|111761982|Dim.
+495|Doctor Zhivago|1965|111721910|MGM
+496|Enemy of the State|1998|111549836|BV
+497|The Little Mermaid|1989|111543479|BV
+498|Mr. Peabody & Sherman|2014|111506430|Fox
+499|Porky's|1982|111289673|Fox
+500|The Last Samurai|2003|111127263|WB
+501|Tropic Thunder|2008|110515313|P/DW
+502|Valentine's Day|2010|110485654|WB
+503|The Grudge|2004|110359362|Sony
+504|Fun with Dick and Jane|2005|110332737|Sony
+505|Freaky Friday|2003|110230332|BV
+506|Bedtime Stories|2008|110101975|BV
+507|Scary Movie 3|2003|110003217|Dim.
+508|Star Trek IV: The Voyage Home|1986|109713132|Par.
+509|The 40-Year-Old Virgin|2005|109449237|Uni.
+510|Crocodile Dundee II|1988|109306210|Par.
+511|Couples Retreat|2009|109204945|Uni.
+512|One Flew Over the Cuckoo's Nest|1975|108981275|UA
+513|A Time to Kill|1996|108766007|WB
+514|Black Hawk Down|2001|108638745|SonR
+515|Terms of Endearment|1983|108423489|Par.
+516|Ace Ventura: When Nature Calls|1995|108385533|WB
+517|The Princess Diaries|2001|108248956|BV
+518|Superman II|1981|108185706|WB
+519|Hop|2011|108085305|Uni.
+520|Pulp Fiction|1994|107928762|Mira.
+521|Paranormal Activity|2009|107918810|Par.
+522|A League of Their Own|1992|107533928|Sony
+523|Epic|2013|107518682|Fox
+524|Watchmen|2009|107509799|WB
+525|Batman and Robin|1997|107325195|WB
+526|Captain Phillips|2013|107100855|Sony
+527|Black Swan|2010|106954678|FoxS
+528|Analyze This|1999|106885658|WB
+529|Chicken Run|2000|106834564|DW
+530|Miss Congeniality|2000|106807667|WB
+531|Indecent Proposal|1993|106614059|Par.
+532|Driving Miss Daisy|1989|106593296|WB
+533|300: Rise of An Empire|2014|106580051|WB
+534|GoldenEye|1995|106429941|MGM
+535|Love Story|1970|106397186|Par.
+536|Kramer Vs. Kramer|1979|106260000|Col.
+537|The Italian Job|2003|106128601|Par.
+538|How to Lose a Guy in 10 Days|2003|105813373|Par.
+539|The First Wives Club|1996|105489203|Par.
+540|Robin Hood|2010|105269730|Uni.
+541|Interview with the Vampire|1994|105264608|WB
+542|George of the Jungle|1997|105263257|BV
+543|The Graduate|1967|104945305|AVCO
+544|Phenomenon|1996|104636382|BV
+545|American Wedding|2003|104565114|Uni.
+546|Road to Perdition|2002|104454762|DW
+547|The Princess and the Frog|2009|104400899|BV
+548|The Chronicles of Narnia: The Voyage of the Dawn Treader|2010|104386950|Fox
+549|Daddy Day Care|2003|104297061|SonR
+550|Paranormal Activity 3|2011|104028807|Par.
+551|Journey 2: The Mysterious Island|2012|103860290|WB
+552|Dick Tracy|1990|103738726|BV
+553|Rise of the Guardians|2012|103412758|P/DW
+554|Dreamgirls|2006|103365956|P/DW
+555|9 to 5|1980|103290500|Fox
+556|The Expendables|2010|103068524|LGF
+557|Scream|1996|103046663|Dim.
+558|Just Go With It|2011|103028109|Sony
+559|The General's Daughter|1999|102705852|Par.
+560|The Aviator|2004|102610330|Mira.
+561|American Pie|1999|102561004|Uni.
+562|Daredevil|2003|102543518|Fox
+563|The Girl with the Dragon Tattoo (2011)|2011|102515793|Sony
+564|The Mummy: Tomb of the Dragon Emperor|2008|102491776|Uni.
+565|The Maze Runner|2014|102427862|Fox
+566|In the Line of Fire|1993|102314823|Col.
+567|Butch Cassidy and the Sundance Kid|1969|102308889|Fox
+568|Mary Poppins|1964|102272727|Dis.
+569|Bambi|1942|102247150|RKO
+570|Jackass Presents: Bad Grandpa|2013|102003019|Par.
+571|Pacific Rim|2013|101802906|WB
+572|Journey to the Center of the Earth|2008|101704370|WB (NL)
+573|Gone in 60 Seconds|2000|101648571|BV
+574|Maverick|1994|101631272|WB
+575|Sleeping with the Enemy|1991|101599005|Fox
+576|The Equalizer|2014|101530738|Sony
+577|This is the End|2013|101470202|Sony
+578|Eagle Eye|2008|101440743|P/DW
+579|The Prince of Egypt|1998|101413188|DW
+580|Scream 2|1997|101363301|Dim.
+581|Stir Crazy|1980|101300000|Col.
+582|Eraser|1996|101295562|WB
+583|Noah|2014|101200044|Par.
+584|Unforgiven|1992|101157447|WB
+585|The Cat in the Hat|2003|101149285|Uni.
+586|Con Air|1997|101117573|BV
+587|Sleepy Hollow|1999|101071502|Par.
+588|Collateral|2004|101005703|DW
+589|Contact|1997|100920329|WB
+590|Charlie's Angels: Full Throttle|2003|100830111|Sony
+591|The Pelican Brief|1993|100768056|WB
+592|Vanilla Sky|2001|100618344|Par.
+593|Due Date|2010|100539043|WB
+594|The Rugrats Movie|1998|100494675|Par.
+595|Million Dollar Baby|2004|100492203|WB
+596|Airport|1970|100489151|Uni.
+597|Jumanji|1995|100475249|Sony
+598|Step Brothers|2008|100468793|Sony
+599|Evan Almighty|2007|100462298|Uni.
+600|Casper|1995|100328194|Uni.
+601|Shakespeare in Love|1998|100317794|Mira.
+602|Bad Teacher|2011|100292856|Sony
+603|Yogi Bear|2010|100246011|WB
+604|Cowboys & Aliens|2011|100240551|Uni.
+605|Edge of Tomorrow|2014|100206256|WB
+606|The Hunchback of Notre Dame|1996|100138851|BV
+607|Seven|1995|100125643|NL
+608|Parenthood|1989|100047830|Uni.
+609|You Don't Mess with the Zohan|2008|100018837|Sony
+610|Die Hard: With A Vengeance|1995|100012499|Fox
+611|Gnomeo and Juliet|2011|99967670|BV
+612|Hercules|1997|99112101|BV
+613|Olympus Has Fallen|2013|98925640|FD
+614|The Green Hornet|2011|98780042|Sony
+615|Date Night|2010|98711404|Fox
+616|The Color Purple|1985|98467863|WB
+617|Meet the Robinsons|2007|97822171|BV
+618|Yes Man|2008|97690976|WB
+619|Inspector Gadget|1999|97403112|BV
+620|Public Enemies|2009|97104620|Uni.
+621|The Social Network|2010|96962694|Sony
+622|The Others|2001|96522687|Mira.
+623|Legally Blonde|2001|96520674|MGM
+624|Panic Room|2002|96397334|Sony
+625|Schindler's List|1993|96065768|Uni.
+626|Dead Poets Society|1989|95860116|BV
+627|Zero Dark Thirty|2012|95720716|Sony
+628|Norbit|2007|95673607|P/DW
+629|Cold Mountain|2003|95636509|Mira.
+630|Arthur|1981|95461682|WB
+631|Sex and the City 2|2010|95347692|WB (NL)
+632|Michael|1996|95318203|NL
+633|The Princess Diaries 2: Royal Engagement|2004|95170481|BV
+634|42|2013|95020213|WB
+635|Unbreakable|2000|95011339|BV
+636|The Book of Eli|2010|94835059|WB
+637|10,000 B.C.|2008|94784201|WB
+638|Beverly Hills Chihuahua|2008|94514402|BV
+639|Saturday Night Fever|1977|94213184|Par.
+640|Julie & Julia|2009|94125426|Sony
+641|The Mask of Zorro|1998|94095523|Sony
+642|Maid in Manhattan|2002|94011225|SonR
+643|He's Just Not That Into You|2009|93953653|WB (NL)
+644|Master and Commander: The Far Side of the World|2003|93927920|Fox
+645|Flight|2012|93772375|Par.
+646|The Fighter|2010|93617009|Par.
+647|America's Sweethearts|2001|93607673|SonR
+648|Lady and the Tramp|1955|93602326|Dis.
+649|The Bucket List|2007|93466502|WB
+650|Cats & Dogs|2001|93385515|WB
+651|Two Weeks Notice|2002|93354851|WB
+652|Red Dragon|2002|93149898|Uni.
+653|Elysium|2013|93050117|TriS
+654|Flubber|1997|92977226|BV
+655|Flashdance|1983|92921203|Par.
+656|When Harry Met Sally...|1989|92823546|Col.
+657|The Town|2010|92186262|WB
+658|Non-Stop|2014|92168600|Uni.
+659|Space Station 3-D (IMAX)|2002|92165012|Imax
+660|The Client|1994|92115211|WB
+661|Star Trek: First Contact|1996|92027888|Par.
+662|Think Like a Man|2012|91547205|SGem
+663|Kindergarten Cop|1990|91457688|Uni.
+664|Heaven is for Real|2014|91443253|TriS
+665|The Haunting|1999|91411151|DW
+666|Crimson Tide|1995|91387195|BV
+667|Back to School|1986|91258000|Orion
+668|Stepmom|1998|91137662|Sony
+669|Save the Last Dance|2001|91057006|Par.
+670|The Scorpion King|2002|91047077|Uni.
+671|The Karate Kid|1984|90815558|Col.
+672|Prince of Persia: The Sands of Time|2010|90759676|BV
+673|Antz|1998|90757863|DW
+674|Scary Movie 4|2006|90710620|W/Dim.
+675|The Game Plan|2007|90648202|BV
+676|Me, Myself and Irene|2000|90570999|Fox
+677|High School Musical 3: Senior Year|2008|90559416|BV
+678|Tyler Perry's Madea Goes to Jail|2009|90508336|LGF
+679|Space Cowboys|2000|90464773|WB
+680|Space Jam|1996|90418342|WB
+681|Trading Places|1983|90404800|Par.
+682|Red|2010|90380162|Sum.
+683|Planes|2013|90288712|BV
+684|Legally Blonde 2: Red, White and Blonde|2003|90186328|MGM
+685|The Imitation Game|2014|90147835|Wein.
+686|Mystic River|2003|90135191|WB
+687|Flightplan|2005|89707299|BV
+688|Father of the Bride|1991|89325780|BV
+689|The Emperor's New Groove|2000|89302687|BV
+690|The Lone Ranger|2013|89302115|BV
+691|Scream 3|2000|89143175|Dim.
+692|Oblivion|2013|89107235|Uni.
+693|The Ugly Truth|2009|88915214|Sony
+694|Taken 3|2015|88817100|Fox
+695|Percy Jackson & The Olympians: The Lightning Thief|2010|88768303|Fox
+696|Failure to Launch|2006|88715192|Par.
+697|The Muppets|2011|88631237|BV
+698|Inside Man|2006|88513495|Uni.
+699|Waterworld|1995|88246220|Uni.
+700|Starsky and Hutch|2004|88237754|WB
+701|Along Came Polly|2004|88097164|Uni.
+702|The Hand That Rocks the Cradle|1992|88036683|BV
+703|Back to the Future Part III|1990|87727583|Uni.
+704|Entrapment|1999|87704396|Fox
+705|Peter Pan|1953|87404651|Dis.
+706|Pineapple Express|2008|87341380|Sony
+707|Everest (IMAX)|1998|87178599|MFF
+708|Out of Africa|1985|87071205|Uni.
+709|Saw II|2005|87039965|Lions
+710|The Naked Gun 2 1/2: The Smell of Fear|1991|86930411|Par.
+711|The Campaign|2012|86907746|WB
+712|The War of the Roses|1989|86888546|Fox
+713|The Amityville Horror|1979|86432000|AIP
+714|Presumed Innocent|1990|86303188|WB
+715|Young Frankenstein|1974|86273333|Fox
+716|Dumb and Dumber To|2014|86208010|Uni.
+717|Mean Girls|2004|86058055|Par.
+718|Annie (2014)|2014|85911262|Sony
+719|Spy Kids 2: The Island of Lost Dreams|2002|85846429|Dim.
+720|Fury (2014)|2014|85817906|Sony
+721|Pokemon: The First Movie|1999|85744662|WB
+722|Real Steel|2011|85468508|BV
+723|The SpongeBob SquarePants Movie|2004|85417988|Par.
+724|Brother Bear|2003|85336277|BV
+725|Stripes|1981|85297000|Col.
+726|Anchorman: The Legend of Ron Burgundy|2004|85288303|DW
+727|Every Which Way But Loose|1978|85196485|WB
+728|Rocky II|1979|85182160|UA
+729|Aliens|1986|85160248|Fox
+730|Open Season|2006|85105259|Sony
+731|The Expendables 2|2012|85028192|LGF
+732|Dangerous Minds|1995|84919401|BV
+733|Paranormal Activity 2|2010|84752907|Par.
+734|The Poseidon Adventure|1972|84563118|Fox
+735|Tammy|2014|84525432|WB
+736|The Santa Clause 3: The Escape Clause|2006|84500122|BV
+737|Crazy, Stupid, Love.|2011|84351197|WB
+738|Annabelle|2014|84273813|WB (NL)
+739|Pinocchio|1940|84254167|Dis.
+740|Scooby-Doo 2: Monsters Unleashed|2004|84216833|WB
+741|Atlantis: The Lost Empire|2001|84056472|BV
+742|Cliffhanger|1993|84049211|TriS
+743|The Other Woman (2014)|2014|83911193|Fox
+744|The X-Files|1998|83898313|Fox
+745|Up in the Air|2009|83823381|Par.
+746|Steel Magnolias|1989|83759091|TriS
+747|Wrath of the Titans|2012|83670083|WB
+748|Insidious Chapter 2|2013|83586447|FD
+749|Under Siege|1992|83563139|WB
+750|Battle: Los Angeles|2011|83552429|Sony
+751|Immortals|2011|83504017|Rela.
+752|Apocalypse Now|1979|83471511|MGM
+753|Airplane!|1980|83453539|Par.
+754|Patriot Games|1992|83351587|Par.
+755|Saving Mr. Banks|2013|83301580|BV
+756|Penguins of Madagascar|2014|83156328|Fox
+757|Valkyrie|2008|83077833|UA
+758|Brokeback Mountain|2005|83043761|Focus
+759|Turbo|2013|83028128|Fox
+760|Disclosure|1994|83015089|WB
+761|Die Hard|1988|83008852|Fox
+762|Charlotte's Web (2006)|2006|82985708|Par.
+763|Monster-in-Law|2005|82931301|NL
+764|Are We There Yet?|2005|82674398|SonR
+765|Days of Thunder|1990|82670733|Par.
+766|Freddy Vs. Jason|2003|82622655|NL
+767|The Descendants|2011|82584160|FoxS
+768|Cheaper by the Dozen 2|2005|82571173|Fox
+769|Mr. Holland's Opus|1995|82569971|BV
+770|Bram Stoker's Dracula|1992|82522790|Col.
+771|Fried Green Tomatoes|1991|82418501|Uni.
+772|Let's Be Cops|2014|82390774|Fox
+773|Blade II|2002|82348319|NL
+774|Beowulf|2007|82280579|Par.
+775|Bridge to Terabithia|2007|82272442|BV
+776|Star Trek: The Motion Picture|1979|82258456|Par.
+777|The Pink Panther (2006)|2006|82226474|Sony
+778|Jaws 2|1978|81766007|Uni.
+779|Heaven Can Wait (1978)|1978|81640278|Par.
+780|Eight Below|2006|81612565|BV
+781|M.A.S.H.|1970|81600000|Fox
+782|Unstoppable|2010|81562942|Fox
+783|Payback|1999|81526121|Par.
+784|The Talented Mr. Ripley|1999|81298265|Par.
+785|School of Rock|2003|81261177|Par.
+786|Police Academy|1984|81198894|WB
+787|Snow Dogs|2002|81172560|BV
+788|21|2008|81159365|Sony
+789|While You Were Sleeping|1995|81057016|BV
+790|Congo|1995|81022101|Par.
+791|The Notebook|2004|81001787|NL
+792|Jimmy Neutron: Boy Genius|2001|80936232|Par.
+793|Alien|1979|80931801|Fox
+794|Another 48 HRS.|1990|80818974|Par.
+795|Moonstruck|1987|80640528|MGM
+796|Eat Pray Love|2010|80574010|Sony
+797|The Texas Chainsaw Massacre|2003|80571655|NL
+798|Zookeeper|2011|80360843|Sony
+799|Alien Vs. Predator|2004|80282231|Fox
+800|What Happens in Vegas|2008|80277646|Fox
+801|The Dukes of Hazzard|2005|80270227|WB
+802|The Wedding Singer|1998|80245725|NL
+803|Saw III|2006|80238724|LGF
+804|Disturbia|2007|80209692|P/DW
+805|Nacho Libre|2006|80197993|Par.
+806|Jumper|2008|80172128|Fox
+807|Jack Reacher|2012|80070736|Par.
+808|Cloverfield|2008|80048433|Par.
+809|Footloose|1984|80035402|Par.
+810|Dear John|2010|80014842|SGem
+811|A Star Is Born (1976)|1976|80000000|WB
+812|Knowing|2009|79957634|Sum.
+813|War Horse|2011|79884879|BV
+814|The Golden Child|1986|79817937|Par.
+815|Dark Shadows|2012|79727149|WB
+816|Earthquake|1974|79666653|Uni.
+817|Hannah Montana The Movie|2009|79576189|BV
+818|WarGames|1983|79567667|MGM
+819|The Day the Earth Stood Still (2008)|2008|79366978|Fox
+820|Limitless|2011|79249455|Rela.
+821|Cape Fear|1991|79091969|Uni.
+822|Star Trek II: The Wrath of Khan|1982|78912963|Par.
+823|48 HRS.|1982|78868508|Par.
+824|The Naked Gun: From the Files of Police Squad!|1988|78756177|Par.
+825|City of Angels|1998|78685114|WB
+826|The English Patient|1996|78676425|Mira.
+827|Teenage Mutant Ninja Turtles II|1991|78656813|NL
+828|A.I. Artificial Intelligence|2001|78616689|WB
+829|Cocktail|1988|78222753|BV
+830|We Were Soldiers|2002|78122718|Par.
+831|Tower Heist|2011|78046570|Uni.
+832|The Monuments Men|2014|78031620|Sony
+833|Hooper|1978|78000000|WB
+834|Man on Fire|2004|77911774|Fox
+835|The Terminal|2004|77872883|DW
+836|Backdraft|1991|77868585|Uni.
+837|Gangs of New York|2002|77812000|Mira.
+838|Free Willy|1993|77698625|WB
+839|The Adventures of Tintin|2011|77591831|Par.
+840|Philadelphia|1993|77446440|TriS
+841|March of the Penguins|2005|77437223|WIP
+842|Parental Guidance|2012|77267296|Fox
+843|Where the Wild Things Are|2009|77233467|WB
+844|The A-Team|2010|77222099|Fox
+845|U-571|2000|77122415|Uni.
+846|27 Dresses|2008|76808654|Fox
+847|Training Day|2001|76631907|WB
+848|Poltergeist|1982|76606280|MGM
+849|Father of the Bride Part II|1995|76594107|BV
+850|Romancing the Stone|1984|76572238|Fox
+851|Rugrats in Paris: The Movie|2000|76507756|Par.
+852|Star Trek III: The Search for Spock|1984|76471046|Par.
+853|Knight & Day|2010|76423035|Fox
+854|Fantasia|1941|76408097|Dis.
+855|The Untouchables|1987|76270454|Par.
+856|White Men Can't Jump|1992|76253806|Fox
+857|The Ring Two|2005|76231249|DW
+858|Cocoon|1985|76113124|Fox
+859|Hellboy II: The Golden Army|2008|75986503|Uni.
+860|Conspiracy Theory|1997|75982834|WB
+861|Constantine|2005|75976178|WB
+862|The Jewel of the Nile|1985|75973200|Fox
+863|The Haunted Mansion|2003|75847266|BV
+864|The Family Man|2000|75793305|Uni.
+865|Barbershop|2002|75782105|MGM
+866|Star Trek: Generations|1994|75671125|Par.
+867|Contagion|2011|75658097|WB
+868|You, Me and Dupree|2006|75628110|Uni.
+869|We Bought a Zoo|2011|75624550|Fox
+870|2 Guns|2013|75612460|Uni.
+871|Braveheart|1995|75609945|Par.
+872|Moneyball|2011|75605492|Sony
+873|The Rookie|2002|75600072|BV
+874|Zombieland|2009|75590286|Sony
+875|Old School|2003|75585093|DW
+876|Any Given Sunday|1999|75530832|WB
+877|The Last of the Mohicans|1992|75505856|Fox
+878|The Horse Whisperer|1998|75383563|BV
+879|Garfield: The Movie|2004|75369589|Fox
+880|Ray|2004|75331600|Uni.
+881|Coraline|2009|75286229|Focus
+882|Tim Burton's The Nightmare Before Christmas|1993|75082668|BV
+883|The Exorcism of Emily Rose|2005|75072454|SGem
+884|Eragon|2006|75030163|Fox
+885|Star Trek VI: The Undiscovered Country|1991|74888996|Par.
+886|10|1979|74865517|WB
+887|The Prince of Tides|1991|74787599|Col.
+888|Ladder 49|2004|74541707|BV
+889|Four Brothers|2005|74494381|Par.
+890|Six Days, Seven Nights|1998|74339294|BV
+891|No Country for Old Men|2007|74283625|Mira.
+892|Paddington|2015|74209261|W/Dim.
+893|Jack and Jill|2011|74158157|Sony
+894|Oliver & Company|1988|74151346|BV
+895|Sin City|2005|74103820|Dim.
+896|Along Came a Spider|2001|74078174|Par.
+897|Ben-Hur|1959|74000000|MGM
+898|Hugo|2011|73864507|Par.
+899|Christmas with the Kranks|2004|73780539|SonR
+900|Beetlejuice|1988|73707461|WB
+901|The Jerk|1979|73691419|Uni.
+902|Monster House|2006|73661010|Sony
+903|Deep Blue Sea|1999|73648142|WB
+904|Law Abiding Citizen|2009|73357727|Over.
+905|Spirit: Stallion of the Cimarron|2002|73280117|DW
+906|Hollow Man|2000|73209340|Sony
+907|White House Down|2013|73103784|Sony
+908|John Carter|2012|73078100|BV
+909|Hotel for Dogs|2009|73034460|P/DW
+910|Dinner for Schmucks|2010|73026337|P/DW
+911|Justin Bieber: Never Say Never|2011|73013910|Par.
+912|Jackass: Number Two|2006|72778712|Par.
+913|The Interpreter|2005|72708161|Uni.
+914|Hercules (2014)|2014|72688614|Par.
+915|Barnyard: The Original Party Animals|2006|72637803|Par.
+916|I Know What You Did Last Summer|1997|72586134|Sony
+917|Dolphin Tale|2011|72286779|WB
+918|Vantage Point|2008|72266306|Sony
+919|Ace Ventura: Pet Detective|1994|72217396|WB
+920|The Cannonball Run|1981|72179579|Fox
+921|Get Shorty|1995|72101622|MGM
+922|Michael Jackson's This Is It|2009|72091016|Sony
+923|Fred Claus|2007|72006777|WB
+924|My Fair Lady|1964|72000000|WB
+925|1408|2007|71985628|MGM/W
+926|The Purge: Anarchy|2014|71962800|Uni.
+927|John Q.|2002|71756802|NL
+928|RV|2006|71726025|Sony
+929|Mama|2013|71628180|Uni.
+930|Ruthless People|1986|71624879|BV
+931|Three Men and a Little Lady|1990|71609321|BV
+932|Galaxy Quest|1999|71583916|DW
+933|Stargate|1994|71567262|MGM
+934|Bridget Jones's Diary|2001|71543427|Mira.
+935|Grumpier Old Men|1995|71518503|WB
+936|The Bridges of Madison County|1995|71516617|WB
+937|Chocolat|2000|71509363|Mira.
+938|Sideways|2004|71503593|FoxS
+939|I Love You, Man|2009|71440011|P/DW
+940|Safe Haven|2013|71349120|Rela.
+941|Christmas Vacation|1989|71319526|WB
+942|Scary Movie 2|2001|71308997|Mira.
+943|The Rescuers|1977|71215869|Dis.
+944|The Spiderwick Chronicles|2008|71195053|Par.
+945|The Score|2001|71107711|Par.
+946|Turner & Hooch|1989|71079915|BV
+947|The Smurfs 2|2013|71017784|Sony
+948|Bird on a Wire|1990|70978012|Uni.
+949|Groundhog Day|1993|70906973|Col.
+950|Shallow Hal|2001|70839203|Fox
+951|White Chicks|2004|70831760|Sony
+952|Broken Arrow (1996)|1996|70770147|Fox
+953|Any Which Way You Can|1980|70687344|WB
+954|No Strings Attached|2011|70662220|Par.
+955|All the President's Men|1976|70600000|WB
+956|The Best Man Holiday|2013|70525195|Uni.
+957|V for Vendetta|2006|70511035|WB
+958|Mortal Kombat|1995|70454098|NL
+959|JFK|1991|70405498|WB
+960|Shaft|2000|70334258|Par.
+961|Moonraker|1979|70308099|MGM
+962|World Trade Center|2006|70278893|Par.
+963|Rocky Balboa|2006|70270943|MGM
+964|Fool's Gold|2008|70231041|WB
+965|Star Trek: Insurrection|1998|70187658|Par.
+966|Grumpy Old Men|1993|70172621|WB
+967|Big Momma's House 2|2006|70165972|Fox
+968|Ferris Bueller's Day Off|1986|70136369|Par.
+969|The Golden Compass|2007|70107728|NL
+970|Kill Bill Vol. 1|2003|70099045|Mira.
+971|Blade|1998|70087718|NL
+972|Boomerang|1992|70052444|Par.
+973|Act of Valor|2012|70012847|Rela.
+974|Born on the Fourth of July|1989|70001698|Uni.
+975|Seven Pounds|2008|69951824|Sony
+976|Private Benjamin|1980|69847348|WB
+977|Splash|1984|69821334|BV
+978|Swordfish|2001|69772969|WB
+979|The Best Little Whorehouse in Texas|1982|69701637|Uni.
+980|Disney's The Kid|2000|69691949|BV
+981|Nine Months|1995|69684532|Fox
+982|Divine Secrets of the Ya-Ya Sisterhood|2002|69599016|WB
+983|Hot Shots!|1991|69467617|Fox
+984|The Thomas Crown Affair|1999|69305181|MGM
+985|Vertical Limit|2000|69243859|Sony
+986|Lost in Space|1998|69117629|NL
+987|Guess Who|2005|68915888|Sony
+988|Cool Runnings|1993|68856263|BV
+989|Witness|1985|68706993|Par.
+990|Sahara|2005|68671925|Par.
+991|Percy Jackson: Sea of Monsters|2013|68559554|Fox
+992|Road Trip|2000|68540777|DW
+993|Blue Streak|1999|68518533|Sony
+994|Purple Rain|1984|68392977|WB
+995|Bring It On|2000|68379000|Uni.
+996|Obsessed|2009|68261644|SGem
+997|Mr. Popper's Penguins|2011|68224452|Fox
+998|Octopussy|1983|67893619|MGM
+999|Outbreak|1995|67659560|WB
+1000|Sudden Impact|1983|67642693|WB
+1001|A Perfect Murder|1998|67638368|WB
+1002|The Tourist|2010|67631157|Sony
+1003|This Is 40|2012|67544505|Uni.
+1004|Heat|1995|67436818|WB
+1005|Holes|2003|67406573|BV
+1006|Insomnia|2002|67355513|WB
+1007|A Good Day to Die Hard|2013|67349198|Fox
+1008|Hidalgo|2004|67303450|BV
+1009|Role Models|2008|67294270|Uni.
+1010|Coach Carter|2005|67264877|Par.
+1011|Coal Miner's Daughter|1980|67182787|Uni.
+1012|Race to Witch Mountain|2009|67172594|BV
+1013|The Forgotten|2004|67133509|SonR
+1014|Dante's Peak|1997|67127760|Uni.
+1015|The Bounty Hunter|2010|67061228|Sony
+1016|Waiting to Exhale|1995|67052156|Fox
+1017|The Secret of My Success|1987|66995879|Uni.
+1018|102 Dalmatians|2000|66957026|BV
+1019|Alexander and the Terrible, Horrible, No Good, Very Bad Day|2014|66954149|BV
+1020|Kangaroo Jack|2003|66934963|WB
+1021|End of Days|1999|66889043|Uni.
+1022|The Mexican|2001|66845033|DW
+1023|Changing Lanes|2002|66818548|Par.
+1024|Big Fish|2003|66809693|Sony
+1025|Uncle Buck|1989|66758538|Uni.
+1026|The Godfather Part III|1990|66666062|Par.
+1027|Charlie Wilson's War|2007|66661095|Uni.
+1028|Legends of the Fall|1994|66638883|Sony
+1029|Contraband|2012|66528000|Uni.
+1030|The Bone Collector|1999|66518655|Uni.
+1031|Looper|2012|66486205|TriS
+1032|The Final Destination|2009|66477700|WB (NL)
+1033|The League of Extraordinary Gentlemen|2003|66465204|Fox
+1034|Bowfinger|1999|66384775|Uni.
+1035|Warm Bodies|2013|66380662|LG/S
+1036|The Parent Trap|1998|66308518|BV
+1037|Kill Bill Vol. 2|2004|66208183|Mira.
+1038|Smokey and the Bandit II|1980|66132626|Uni.
+1039|Herbie: Fully Loaded|2005|66023816|BV
+1040|What's Up, Doc?|1972|66000000|WB
+1041|The Manchurian Candidate|2004|65955630|Par.
+1042|Anaconda|1997|65885767|Sony
+1043|Bad Boys|1995|65807024|Sony
+1044|Ever After: A Cinderella Story|1998|65705771|Fox
+1045|Stakeout|1987|65673233|BV
+1046|Lara Croft Tomb Raider: The Cradle of Life|2003|65660196|Par.
+1047|Tyler Perry's Madea's Witness Protection|2012|65653242|LGF
+1048|Deuce Bigalow: Male Gigolo|1999|65538755|BV
+1049|The Ten Commandments|1956|65500000|Par.
+1050|The Taking of Pelham 1 2 3|2009|65452312|Sony
+1051|Battleship|2012|65422625|Uni.
+1052|Step Up|2006|65328121|BV
+1053|Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour|2008|65281781|BV
+1054|The Amityville Horror (2005)|2005|65233369|MGM
+1055|Lethal Weapon|1987|65207127|WB
+1056|The Muppet Movie|1979|65200000|AFD
+1057|Jack the Giant Slayer|2013|65187603|WB (NL)
+1058|Think Like a Man Too|2014|65182182|SGem
+1059|Barbershop 2: Back in Business|2004|65111277|MGM
+1060|About Schmidt|2002|65016287|NL
+1061|Exodus: Gods and Kings|2014|65014513|Fox
+1062|Wolf|1994|65002597|Col.
+1063|Friday the 13th (2009)|2009|65002019|WB (NL)
+1064|Pitch Perfect|2012|65001093|Uni.
+1065|Stuart Little 2|2002|64956806|Sony
+1066|Mirror Mirror|2012|64935167|Rela.
+1067|Staying Alive|1983|64892670|Par.
+1068|Mr. Mom|1983|64783827|Fox
+1069|Flushed Away|2006|64665672|P/DW
+1070|L.A. Confidential|1997|64616940|WB
+1071|Chronicle (2012)|2012|64575175|Fox
+1072|The Happening|2008|64506874|Fox
+1073|The Purge|2013|64473115|Uni.
+1074|Field of Dreams|1989|64431625|Uni.
+1075|Miracle|2004|64378093|BV
+1076|Jackass: The Movie|2002|64255312|Par.
+1077|The Nut Job|2014|64251541|ORF
+1078|The Wedding Ringer|2015|64208820|SGem
+1079|Down to Earth|2001|64186502|Par.
+1080|17 Again|2009|64167069|WB (NL)
+1081|Deja Vu|2006|64038616|BV
+1082|Happy Feet Two|2011|64006466|WB
+1083|Diary of a Wimpy Kid|2010|64003625|Fox
+1084|Dirty Dancing|1987|63954274|Vest
+1085|Sky High|2005|63946815|BV
+1086|Last Vegas|2013|63914167|CBS
+1087|Life|1999|63886029|Uni.
+1088|Mona Lisa Smile|2003|63860942|SonR
+1089|In & Out|1997|63856929|Par.
+1090|The Fifth Element|1997|63820180|Sony
+1091|Working Girl|1988|63779477|Fox
+1092|The Witches of Eastwick|1987|63766510|WB
+1093|What About Bob?|1991|63707829|BV
+1094|Unknown|2011|63686397|WB
+1095|Babe|1995|63658910|Uni.
+1096|Thunderball|1965|63595658|UA
+1097|Risky Business|1983|63541777|WB
+1098|Hope Springs|2012|63536011|Sony
+1099|The Fox and the Hound|1981|63456988|BV
+1100|Miami Vice|2006|63450470|Uni.
+1101|The Time Traveler's Wife|2009|63414846|WB (NL)
+1102|Tango & Cash|1989|63408614|WB
+1103|She's All That|1999|63366989|Mira.
+1104|Bewitched|2005|63313159|Sony
+1105|Saw IV|2007|63300095|LGF
+1106|Dave|1993|63270710|WB
+1107|Tyler Perry's Madea's Family Reunion|2006|63257940|LGF
+1108|The Holiday|2006|63224849|Sony
+1109|Rising Sun|1993|63179523|Fox
+1110|Forgetting Sarah Marshall|2008|63172463|Uni.
+1111|The Sorcerer's Apprentice|2010|63150991|BV
+1112|Beavis and Butt-Head Do America|1996|63118386|Par.
+1113|Scent of a Woman|1992|63095253|Uni.
+1114|A Nightmare on Elm Street (2010)|2010|63075011|WB (NL)
+1115|The Last Song|2010|62950384|BV
+1116|Jarhead|2005|62658220|Uni.
+1117|The Crying Game|1992|62548947|Mira.
+1118|The Fast and the Furious: Tokyo Drift|2006|62514415|Uni.
+1119|The Adjustment Bureau|2011|62495645|Uni.
+1120|A Fish Called Wanda|1988|62493712|MGM
+1121|Spy Game|2001|62362560|Uni.
+1122|Underworld Awakening|2012|62321039|SGem
+1123|Underworld: Evolution|2006|62318875|SGem
+1124|Down and Out in Beverly Hills|1986|62134225|BV
+1125|The Wolfman|2010|61979680|Uni.
+1126|Mouse Hunt|1997|61917389|DW
+1127|The Electric Horseman|1979|61801971|Col.
+1128|Patton|1970|61749765|Fox
+1129|Ender's Game|2013|61737191|LG/S
+1130|Cinderella Man|2005|61649911|Uni.
+1131|The Goonies|1985|61503218|WB
+1132|Flatliners|1990|61489265|Col.
+1133|National Lampoon's Vacation|1983|61399552|WB
+1134|The Saint|1997|61363304|Par.
+1135|Stomp the Yard|2007|61356221|SGem
+1136|Rules of Engagement|2000|61335230|Par.
+1137|The Cell|2000|61334059|NL
+1138|Misery|1990|61276872|Col.
+1139|Friday Night Lights|2004|61255921|Uni.
+1140|The Shaggy Dog|2006|61123569|BV
+1141|Prisoners|2013|61002302|WB
+1142|Get Him to the Greek|2010|60974475|Uni.
+1143|The Devil's Advocate|1997|60944660|WB
+1144|The Omen|1976|60922980|Fox
+1145|Mission to Mars|2000|60883407|BV
+1146|Harlem Nights|1989|60864870|Par.
+1147|Coyote Ugly|2000|60786269|BV
+1148|God's Not Dead|2014|60755732|Free
+1149|Poseidon|2006|60674817|WB
+1150|Fantasia 2000 (35mm & IMAX)|2000|60655420|BV
+1151|Three Kings|1999|60652036|WB
+1152|Jingle All the Way|1996|60592389|Fox
+1153|Kiss the Girls|1997|60527873|Par.
+1154|After Earth|2013|60522097|Sony
+1155|Baby Mama|2008|60494212|Uni.
+1156|Shanghai Knights|2003|60476872|BV
+1157|The Lucky One|2012|60457138|WB
+1158|The Wedding Planner|2001|60400856|Sony
+1159|Burn After Reading|2008|60355347|Focus
+1160|Scrooged|1988|60328558|Par.
+1161|The Cable Guy|1996|60240295|Sony
+1162|Resident Evil: Afterlife|2010|60128566|SGem
+1163|Tyler Perry's Why Did I Get Married Too?|2010|60095852|LGF
+1164|Spies Like Us|1985|60088980|WB
+1165|The American President|1995|60079496|Sony
+1166|Species|1995|60074103|MGM
+1167|The Family Stone|2005|60062868|Fox
+1168|Bad Santa|2003|60060328|Dim.
+1169|Bruno|2009|60054530|Uni.
+1170|Hope Floats|1998|60053195|Fox
+1171|Tooth Fairy|2010|60022256|Fox
+1172|Snow Day|2000|60020107|Par.
+1173|The Good Shepherd|2006|59952835|Uni.
+1174|Superman III|1983|59950623|WB
+1175|Jungle 2 Jungle|1997|59927618|BV
+1176|Little Miss Sunshine|2006|59891098|FoxS
+1177|The Benchwarmers|2006|59843754|SonR
+1178|Predator|1987|59735548|Fox
+1179|Secretariat|2010|59713955|BV
+1180|Son of God|2014|59700064|Fox
+1181|Love Actually|2003|59696144|Uni.
+1182|Gothika|2003|59694580|WB
+1183|The Dictator|2012|59650222|Par.
+1184|Hellboy|2004|59623958|SonR
+1185|The Last Boy Scout|1991|59509925|WB
+1186|My Girl|1991|59489799|Col.
+1187|The Stepford Wives|2004|59484742|Par.
+1188|Planes: Fire & Rescue|2014|59165787|BV
+1189|The Grand Budapest Hotel|2014|59100318|FoxS
+1190|Courage Under Fire|1996|59031057|Fox
+1191|Dawn of the Dead|2004|59020957|Uni.
+1192|Chariots of Fire|1981|58972904|Col.
+1193|Far and Away|1992|58883840|Uni.
+1194|Total Recall (2012)|2012|58877969|Sony
+1195|Surf's Up|2007|58867694|Sony
+1196|Behind Enemy Lines|2001|58856790|Fox
+1197|The Blue Lagoon|1980|58853106|Col.
+1198|Bride Wars|2009|58715510|Fox
+1199|Water for Elephants|2011|58709717|Fox
+1200|Honey, I Blew Up the Kid|1992|58662452|BV
+1201|Little Man|2006|58645052|SonR
+1202|Jack|1996|58620973|BV
+1203|RoboCop (2014)|2014|58607007|Sony
+1204|Sea of Love|1989|58571513|Uni.
+1205|Housesitter|1992|58500635|Uni.
+1206|Death Becomes Her|1992|58422650|Uni.
+1207|Anastasia|1997|58406347|Fox
+1208|Easy A|2010|58401464|SGem
+1209|Curious George|2006|58360760|Uni.
+1210|Open Range|2003|58331254|BV
+1211|Halloween (2007)|2007|58272029|MGM/W
+1212|The Secret Life of Walter Mitty|2013|58236838|Fox
+1213|Bicentennial Man|1999|58223861|BV
+1214|Ali|2001|58203105|Sony
+1215|Without a Paddle|2004|58169327|Par.
+1216|Demolition Man|1993|58055768|WB
+1217|Step Up 2 the Streets|2008|58017783|BV
+1218|The Lincoln Lawyer|2011|58009200|LGF
+1219|The Butterfly Effect|2004|57938693|NL
+1220|Throw Momma From the Train|1987|57915972|Orion
+1221|Red Eye|2005|57891803|DW
+1222|Shall We Dance|2004|57890460|Mira.
+1223|Invincible|2006|57806952|BV
+1224|Cleopatra (1963)|1963|57777778|Fox
+1225|The Chronicles of Riddick|2004|57761012|Uni.
+1226|Takers|2010|57744720|SGem
+1227|The Animal|2001|57743062|SonR
+1228|Life Is Beautiful|1998|57563264|Mira.
+1229|The Cider House Rules|1999|57545092|Mira.
+1230|Boyz N the Hood|1991|57504069|Col.
+1231|Memoirs of a Geisha|2005|57490508|Sony
+1232|Pet Sematary|1989|57469467|Par.
+1233|Dragnet|1987|57387516|Uni.
+1234|Moulin Rouge!|2001|57386607|Fox
+1235|Blood Diamond|2006|57377916|WB
+1236|The Specialist|1994|57362582|WB
+1237|Next Friday|2000|57328603|NL
+1238|Sister Act 2: Back in the Habit|1993|57319029|BV
+1239|Willow|1988|57269863|MGM
+1240|The Whole Nine Yards|2000|57262492|WB
+1241|13 Going on 30|2004|57231747|SonR
+1242|The Blues Brothers|1980|57229890|Uni.
+1243|U.S. Marshals|1998|57167405|WB
+1244|12 Monkeys|1995|57141459|Uni.
+1245|Unlawful Entry|1992|57138719|Fox
+1246|Beethoven|1992|57114049|Uni.
+1247|Annie|1982|57059003|Col.
+1248|Beaches|1988|57041866|BV
+1249|Escape From Planet Earth|2013|57012977|Wein.
+1250|American Reunion|2012|57011521|Uni.
+1251|The Man in the Iron Mask|1998|56968902|MGM
+1252|2001: A Space Odyssey|1968|56954992|MGM
+1253|Shanghai Noon|2000|56937502|BV
+1254|The Time Machine|2002|56832494|DW
+1255|Midnight in Paris|2011|56817045|SPC
+1256|Saw V|2008|56746769|LGF
+1257|A Civil Action|1998|56709981|BV
+1258|12 Years a Slave|2013|56671993|FoxS
+1259|Guess Who's Coming to Dinner|1967|56666667|Col.
+1260|Clueless|1995|56631572|Par.
+1261|Rat Race|2001|56618055|Par.
+1262|A Knight's Tale|2001|56569702|Sony
+1263|Executive Decision|1996|56569216|WB
+1264|Tombstone|1993|56505065|BV
+1265|The Queen|2006|56441711|Mira.
+1266|The Big Chill|1983|56399659|Col.
+1267|Drumline|2002|56399184|Fox
+1268|White Noise|2005|56386759|Uni.
+1269|Edward Scissorhands|1990|56362352|Fox
+1270|Once Upon a Time in Mexico|2003|56359780|Sony
+1271|Dracula Untold|2014|56280355|Uni.
+1272|Just Married|2003|56127162|Fox
+1273|Primal Fear|1996|56116183|Par.
+1274|Wallace and Gromit: The Curse of the Were-Rabbit|2005|56110897|DW
+1275|Be Cool|2005|56046979|MGM
+1276|ParaNorman|2012|56003051|Focus
+1277|Saw|2004|56000369|Lions
+1278|Romeo Must Die|2000|55973336|WB
+1279|Forever Young|1992|55956187|WB
+1280|Friends with Benefits|2011|55802754|SGem
+1281|Free Birds|2013|55750480|Rela.
+1282|Hansel and Gretel: Witch Hunters|2013|55703475|Par.
+1283|Eyes Wide Shut|1999|55691208|WB
+1284|Legend of the Guardians: The Owls of Ga'Hoole|2010|55675313|WB
+1285|Police Academy 2: Their First Assignment|1985|55600000|WB
+1286|Snake Eyes|1998|55591409|Par.
+1287|Never Been Kissed|1999|55474756|Fox
+1288|Alien 3|1992|55473545|Fox
+1289|Never Say Never Again|1983|55432841|WB
+1290|The Haunting in Connecticut|2009|55389516|LGF
+1291|What Dreams May Come|1998|55382927|Poly
+1292|Ghosts of Girlfriends Past|2009|55250026|WB (NL)
+1293|Tyler Perry's Why Did I Get Married?|2007|55204525|LGF
+1294|I Am Number Four|2011|55100437|BV
+1295|Halloween: H20|1998|55041738|Dim.
+1296|The Guardian|2006|55011732|BV
+1297|Don't Say a Word|2001|55001642|Fox
+1298|The Jackal|1997|54930280|Uni.
+1299|Spawn|1997|54870175|NL
+1300|Doc Hollywood|1991|54830779|WB
+1301|Starship Troopers|1997|54814377|Sony
+1302|For Your Eyes Only|1981|54812802|MGM
+1303|Ordinary People|1980|54766923|Par.
+1304|This Means War|2012|54760791|Fox
+1305|Project X|2012|54731865|WB
+1306|Source Code|2011|54712227|Sum.
+1307|Small Soldiers|1998|54682547|DW
+1308|The Omen (2006)|2006|54607383|Fox
+1309|Crash|2005|54580300|Lions
+1310|New Year's Eve|2011|54544638|WB (NL)
+1311|The Abyss|1989|54461047|Fox
+1312|Horrible Bosses 2|2014|54445357|WB
+1313|The Woman in Black|2012|54333290|CBS
+1314|The Hundred-Foot Journey|2014|54240821|BV
+1315|Evil Dead (2013)|2013|54239856|TriS
+1316|The Count of Monte Cristo|2002|54234062|BV
+1317|La Bamba|1987|54215416|Col.
+1318|TMNT|2007|54149098|WB
+1319|Final Destination 3|2006|54098051|NL
+1320|Insidious|2011|54009150|FD
+1321|The Verdict|1982|53977250|Fox
+1322|Paranormal Activity 4|2012|53900335|Par.
+1323|The Three Musketeers (1993)|1993|53898845|BV
+1324|Austin Powers: International Man of Mystery|1997|53883989|NL
+1325|Tin Cup|1996|53854588|WB
+1326|Paycheck|2003|53790451|Par.
+1327|Rambo III|1988|53715611|TriS
+1328|Hero|2004|53710019|Mira.
+1329|P.S. I Love You|2007|53695808|WB
+1330|Sabrina|1995|53672080|Par.
+1331|Rookie of the Year|1993|53615089|Fox
+1332|3:10 to Yuma (2007)|2007|53606916|LGF
+1333|Problem Child|1990|53470891|Uni.
+1334|Beethoven's 2nd|1993|53443066|Uni.
+1335|Robocop|1987|53424681|Orion
+1336|Yours, Mine and Ours|2005|53412862|Par.
+1337|Life as We Know It|2010|53374681|WB
+1338|Tim Burton's Corpse Bride|2005|53359111|WB
+1339|T-Rex: Back to the Cretaceous (IMAX)|1998|53346750|Imax
+1340|Tyler Perry's Madea's Big Happy Family|2011|53345287|LGF
+1341|Final Destination|2000|53331147|NL
+1342|Sleepers|1996|53315285|WB
+1343|Papillon|1973|53267000|AAP
+1344|Red 2|2013|53262560|LG/S
+1345|The Devil Inside|2012|53261944|Par.
+1346|Arachnophobia|1990|53208180|BV
+1347|The Prestige|2006|53089891|BV
+1348|Letters to Juliet|2010|53032453|Sum.
+1349|Blow|2001|52990775|NL
+1350|My Cousin Vinny|1992|52929168|Fox
+1351|Sweeney Todd: The Demon Barber of Fleet Street|2007|52898073|P/DW
+1352|Varsity Blues|1999|52894169|Par.
+1353|Forces of Nature|1999|52888180|DW
+1354|Message in a Bottle|1999|52880016|WB
+1355|Outrageous Fortune|1987|52864741|BV
+1356|Kicking and Screaming|2005|52842724|Uni.
+1357|The Recruit|2003|52802140|BV
+1358|Unfaithful|2002|52775765|Fox
+1359|Gandhi|1982|52767889|Col.
+1360|Four Weddings and a Funeral|1994|52700832|Gram.
+1361|Diary of a Wimpy Kid: Rodrick Rules|2011|52698535|Fox
+1362|King Kong (1976)|1976|52614445|Par.
+1363|The Strangers|2008|52597610|Rog.
+1364|No Good Deed (2014)|2014|52543632|SGem
+1365|Tyler Perry's A Madea Christmas|2013|52543354|LGF
+1366|Wall Street: Money Never Sleeps|2010|52474616|Fox
+1367|Blade: Trinity|2004|52411906|NL
+1368|The Royal Tenenbaums|2001|52364010|BV
+1369|Radio|2003|52333738|SonR
+1370|The Lake House|2006|52330111|WB
+1371|The Color of Money|1986|52293982|BV
+1372|Stand by Me|1986|52287414|Col.
+1373|The Divergent Series: Insurgent|2015|52263680|LG/S
+1374|Funny Girl|1968|52223306|Col.
+1375|Star Trek V: The Final Frontier|1989|52210049|Par.
+1376|Identity|2003|52159536|Sony
+1377|The Little Rascals|1994|52125282|Uni.
+1378|Awakenings|1990|52096475|Col.
+1379|The Forbidden Kingdom|2008|52075270|LGF
+1380|South Park - Bigger, Longer and Uncut|1999|52037603|Par.
+1381|Predators|2010|52000688|Fox
+1382|Tyler Perry's Temptation: Confessions of a Marriage Counselor|2013|51975354|LGF
+1383|Amadeus|1984|51973029|Orion
+1384|Underworld|2003|51970690|SGem
+1385|King Arthur|2004|51882244|BV
+1386|The Call|2013|51872378|TriS
+1387|Funny People|2009|51855045|Uni.
+1388|The Odd Life of Timothy Green|2012|51854875|BV
+1389|Finding Forrester|2000|51804714|Sony
+1390|Footloose (2011)|2011|51802742|Par.
+1391|Ghost Rider: Spirit of Vengeance|2012|51774002|Sony
+1392|Exit Wounds|2001|51758599|WB
+1393|Tyler Perry's I Can Do Bad All By Myself|2009|51733921|LGF
+1394|The China Syndrome|1979|51718367|Col.
+1395|The French Connection|1971|51700000|Fox
+1396|Selma|2014|51694025|Par.
+1397|Finding Neverland|2004|51680613|Mira.
+1398|Sleeping Beauty|1959|51600000|Dis.
+1399|The Grey|2012|51580236|ORF
+1400|My Bloody Valentine 3-D|2009|51545952|LGF
+1401|A Cinderella Story|2004|51438175|WB
+1402|Like Mike|2002|51432760|Fox
+1403|Sneakers|1992|51432691|Uni.
+1404|Enemy at the Gates|2001|51401758|Par.
+1405|Hoodwinked|2005|51386611|Wein.
+1406|Dragonheart|1996|51367375|Uni.
+1407|Dennis the Menace|1993|51270765|WB
+1408|The Phantom of the Opera|2004|51268815|WB
+1409|The Love Bug|1969|51264000|Dis.
+1410|Broadcast News|1987|51249404|Fox
+1411|Resident Evil: Apocalypse|2004|51201453|SGem
+1412|The Living Daylights|1987|51185897|UA
+1413|Muppets Most Wanted|2014|51183113|BV
+1414|The Naked Gun 33 1/3: The Final Insult|1994|51132598|Par.
+1415|Hide and Seek|2005|51100486|Fox
+1416|Up Close and Personal|1996|51088705|BV
+1417|The Hitchhiker's Guide to the Galaxy|2005|51085416|BV
+1418|Goldfinger|1964|51081062|UA
+1419|Silver Streak|1976|51079064|Fox
+1420|Atonement|2007|50927067|Focus
+1421|Bull Durham|1988|50888729|Orion
+1422|The Tale of Despereaux|2008|50877145|Uni.
+1423|Apocalypto|2006|50866635|BV
+1424|Something to Talk About|1995|50865589|WB
+1425|The Road to El Dorado|2000|50863742|DW
+1426|Ouija|2014|50856010|Uni.
+1427|The Boxtrolls|2014|50837305|Focus
+1428|Syriana|2005|50824620|WB
+1429|The Mighty Ducks|1992|50752337|BV
+1430|A Bridge Too Far|1977|50750000|UA
+1431|The Net|1995|50727965|Sony
+1432|The Hurricane|1999|50699241|Uni.
+1433|The Crow|1994|50693129|Mira.
+1434|Resident Evil: Extinction|2007|50648679|SGem
+1435|Tyler Perry's Diary of a Mad Black Woman|2005|50633099|Lions
+1436|Mighty Joe Young|1998|50632037|BV
+1437|Fletch|1985|50612888|Uni.
+1438|Jack Ryan: Shadow Recruit|2014|50577412|Par.
+1439|Music and Lyrics|2007|50572589|WB
+1440|The Tuxedo|2002|50547998|DW
+1441|Eddie Murphy Raw|1987|50504655|Par.
+1442|If I Stay|2014|50474843|WB
+1443|The Four Seasons|1981|50427646|Uni.
+1444|K-PAX|2001|50338485|Uni.
+1445|A View to a Kill|1985|50327960|MGM
+1446|Serendipity|2001|50294317|Mira.
+1447|Hot Tub Time Machine|2010|50287556|MGM
+1448|Natural Born Killers|1994|50282766|WB
+1449|Angels in the Outfield (1994)|1994|50236831|BV
+1450|Breakdown|1997|50159144|Par.
+1451|The Book of Life (2014)|2014|50151543|Fox
+1452|Little Women (1994)|1994|50083616|Sony
+1453|Sommersby|1993|50081992|WB
+1454|Absolute Power|1997|50068310|Sony
+1455|Evita|1996|50047179|BV
+1456|Stigmata|1999|50046268|MGM
+1457|Home on the Range|2004|50030461|BV
+1458|Under Siege 2: Dark Territory|1995|50024083|WB
+1459|When a Man Loves a Woman|1994|50021959|BV
+1460|Last Action Hero|1993|50016394|Col.
+1461|A Walk in the Clouds|1995|50008143|Fox
+1462|Dog Day Afternoon|1975|50000000|WB
+1463|Red Tails|2012|49876377|Fox
+1464|Pain and Gain|2013|49875291|Par.
+1465|Legal Eagles|1986|49851591|Uni.
+1466|Popeye|1980|49823037|Par.
+1467|Major League|1989|49797148|Par.
+1468|Racing Stripes|2005|49772522|WB
+1469|Are We Done Yet?|2007|49662533|SonR
+1470|Revenge of the Pink Panther|1978|49579269|UA
+1471|Australia|2008|49554002|Fox
+1472|Planes, Trains and Automobiles|1987|49530280|Par.
+1473|Old Dogs|2009|49492060|BV
+1474|Runaway Jury|2003|49443628|Fox
+1475|Land of the Lost|2009|49438370|Uni.
+1476|Shampoo|1975|49407734|Col.
+1477|A Nightmare on Elm Street 4: The Dream Master|1988|49369899|NL
+1478|European Vacation|1985|49364621|WB
+1479|Focus (2015)|2015|49347832|WB
+1480|Volcano|1997|49323468|Fox
+1481|My Sister's Keeper|2009|49200230|WB
+1482|The Possession|2012|49130154|LGF
+1483|This Christmas|2007|49121934|SGem
+1484|Bugsy|1991|49114016|TriS
+1485|Cobra|1986|49042224|WB
+1486|Michael Clayton|2007|49033882|WB
+1487|Diary of a Wimpy Kid: Dog Days|2012|49008662|Fox
+1488|The Deer Hunter|1978|48979328|Uni.
+1489|Addams Family Values|1993|48919043|Par.
+1490|Men of Honor|2000|48818921|Fox
+1491|Firewall|2006|48751189|WB
+1492|About Last Night (2014)|2014|48637684|SGem
+1493|Speed 2: Cruise Control|1997|48608066|Fox
+1494|Date Movie|2006|48548426|Fox
+1495|Miss Congeniality 2: Armed and Fabulous|2005|48478006|WB
+1496|The Dilemma|2011|48475290|Uni.
+1497|Peter Pan|2003|48462608|Uni.
+1498|Return to Never Land|2002|48430258|BV
+1499|Big Fat Liar|2002|48360547|Uni.
+1500|The Game|1997|48323648|Poly
+1501|Just Like Heaven|2005|48318130|DW
+1502|The House Bunny|2008|48237389|Sony
+1503|Mask|1985|48230162|Uni.
+1504|Wayne's World 2|1993|48197805|Par.
+1505|Malcolm X|1992|48169910|WB
+1506|G.I. Jane|1997|48169156|BV
+1507|Tightrope|1984|48143579|WB
+1508|Fat Albert|2004|48116322|Fox
+1509|The Preacher's Wife|1996|48102795|BV
+1510|The Land Before Time|1988|48092846|Uni.
+1511|Sinister|2012|48086903|LG/S
+1512|Kick-Ass|2010|48071303|LGF
+1513|Secret Window|2004|48022900|Sony
+1514|Single White Female|1992|48017402|Col.
+1515|Nim's Island|2008|48006762|Fox
+1516|The Natural|1984|47951979|TriS
+1517|Agent Cody Banks|2003|47938330|MGM
+1518|The Skeleton Key|2005|47907715|Uni.
+1519|The Jungle Book 2|2003|47901582|BV
+1520|When a Stranger Calls|2006|47860214|SGem
+1521|Premonition|2007|47852604|Sony
+1522|Alien Resurrection|1997|47795658|Fox
+1523|Look Who's Talking Too|1990|47789074|TriS
+1524|The Rundown|2003|47726342|Uni.
+1525|Dan in Real Life|2007|47642963|BV
+1526|New Jack City|1991|47624353|WB
+1527|Into The Storm|2014|47602194|WB
+1528|Precious: Based on the Novel "Push" by Sapphire|2009|47566524|LGF
+1529|The Godfather Part II|1974|47542841|Par.
+1530|The Kingdom|2007|47536778|Uni.
+1531|An American Tail|1986|47483002|Uni.
+1532|Hard to Kill|1990|47410827|WB
+1533|Munich|2005|47403685|Uni.
+1534|Kingdom of Heaven|2005|47398413|Fox
+1535|Savages (2012)|2012|47382068|Uni.
+1536|The Deep|1977|47346365|Col.
+1537|Hostel|2006|47326473|Lions
+1538|First Blood|1982|47212904|Orion
+1539|Nanny McPhee|2006|47144110|Uni.
+1540|Kate and Leopold|2001|47121859|Mira.
+1541|The Judge|2014|47119388|WB
+1542|The Toy|1982|47118057|Col.
+1543|Killers|2010|47059963|LGF
+1544|Jersey Boys|2014|47047013|WB
+1545|Shooter|2007|47003582|Par.
+1546|Halloween|1978|47000000|CIP
+1547|Silent Hill|2006|46982632|Sony
+1548|Final Destination 2|2003|46961214|NL
+1549|Urban Cowboy|1980|46918287|Par.
+1550|See No Evil, Hear No Evil|1989|46908987|TriS
+1551|The Spy Who Loved Me|1977|46838673|UA
+1552|Goodfellas|1990|46836214|WB
+1553|The River Wild|1994|46816343|Uni.
+1554|Boogeyman|2005|46752382|SGem
+1555|Dude, Where's My Car?|2000|46729800|Fox
+1556|Firefox|1982|46708276|WB
+1557|The Rocketeer|1991|46704056|BV
+1558|Practical Magic|1998|46683377|WB
+1559|The Distinguished Gentleman|1992|46666502|BV
+1560|Colors|1988|46616067|Orion
+1561|The Brady Bunch Movie|1995|46576136|Par.
+1562|Phone Booth|2003|46566212|Fox
+1563|The Legend of Zorro|2005|46464023|Sony
+1564|Arthur Christmas|2011|46462469|Sony
+1565|Walking Tall|2004|46437717|MGM
+1566|The Best Exotic Marigold Hotel|2012|46412041|FoxS
+1567|Malice|1993|46405336|Col.
+1568|Jupiter Ascending|2015|46395319|WB
+1569|Hubble 3D|2010|46370134|WB
+1570|Full Metal Jacket|1987|46357676|WB
+1571|Romeo + Juliet|1996|46351345|Fox
+1572|It's a Mad, Mad, Mad, Mad World|1963|46332858|MGM
+1573|Blended|2014|46294610|WB
+1574|The Enforcer|1976|46236000|WB
+1575|Black Rain|1989|46212055|Par.
+1576|One Fine Day|1996|46151454|Fox
+1577|Deep Sea 3D (IMAX)|2006|46097386|WB
+1578|Marked for Death|1990|46044396|Fox
+1579|Made of Honor|2008|46012734|Sony
+1580|Gangster Squad|2013|46000903|WB
+1581|The Full Monty|1997|45950122|FoxS
+1582|The Rainmaker (1997)|1997|45916769|Par.
+1583|The Breakfast Club|1985|45875171|Uni.
+1584|Greystoke: The Legend of Tarzan|1984|45858563|WB
+1585|In Good Company|2004|45806659|Uni.
+1586|Underworld: Rise of the Lycans|2009|45802315|SGem
+1587|Saw 3D|2010|45710178|LGF
+1588|Robocop 2|1990|45681173|Orion
+1589|Young Guns|1988|45661556|Fox
+1590|College Road Trip|2008|45610425|BV
+1591|D2: The Mighty Ducks|1994|45610410|BV
+1592|The Tigger Movie|2000|45554533|BV
+1593|Jaws 3-D|1983|45517055|Uni.
+1594|O Brother, Where Art Thou?|2000|45512588|BV
+1595|Moonrise Kingdom|2012|45512466|Focus
+1596|Medicine Man|1992|45500797|BV
+1597|Scarface (1983)|1983|45408703|Uni.
+1598|Thelma and Louise|1991|45360915|MGM
+1599|Bean|1997|45319423|Gram.
+1600|Here Comes the Boom|2012|45290318|Sony
+1601|Domestic Disturbance|2001|45246095|Par.
+1602|Zoolander|2001|45172250|Par.
+1603|The Giver|2014|45090374|Wein.
+1604|28 Days Later|2003|45064915|FoxS
+1605|Hall Pass|2011|45060734|WB (NL)
+1606|Frequency|2000|45010278|NL
+1607|The Way We Were|1973|45000000|Col.
+1608|Foul Play|1978|44999621|Par.
+1609|Made in America|1993|44942695|WB
+1610|The End|1978|44917151|UA
+1611|Cop Out|2010|44875481|WB
+1612|Cop Land|1997|44862187|Mira.
+1613|Timecop|1994|44853581|Uni.
+1614|Lawrence of Arabia|1962|44824144|Col.
+1615|Red Dawn (2012)|2012|44806783|FD
+1616|A Nightmare on Elm Street 3: Dream Warriors|1987|44793222|NL
+1617|The Good Son|1993|44789789|Fox
+1618|Midnight Cowboy|1969|44785053|UA
+1619|The Replacements|2000|44737059|WB
+1620|The Internship|2013|44672764|Fox
+1621|The Artist|2011|44671682|Wein.
+1622|Meet Joe Black|1998|44619100|Uni.
+1623|Lost in Translation|2003|44585453|Focus
+1624|The Negotiator|1998|44547681|WB
+1625|Napoleon Dynamite|2004|44540956|FoxS
+1626|The Odd Couple|1968|44527234|Par.
+1627|Nothing to Lose|1997|44480039|BV
+1628|Instructions Not Included|2013|44467206|LGF
+1629|Up in Smoke|1978|44364244|Par.
+1630|The Shining|1980|44360123|WB
+1631|The Three Stooges|2012|44338224|Fox
+1632|Confessions of a Shopaholic|2009|44277350|BV
+1633|Amistad|1997|44229441|DW
+1634|Young Guns II|1990|44143410|Fox
+1635|St. Vincent|2014|44137712|Wein.
+1636|The Lovely Bones|2009|44114232|P/DW
+1637|The Sisterhood of the Traveling Pants 2|2008|44089964|WB
+1638|Passenger 57|1992|44065653|WB
+1639|The Beverly Hillbillies|1993|44029386|Fox
+1640|Seems Like Old Times|1980|43995918|Col.
+1641|The Last Emperor|1987|43984230|Col.
+1642|Speed Racer|2008|43945766|WB
+1643|The One|2001|43905746|SonR
+1644|Must Love Dogs|2005|43894863|WB
+1645|Love at First Bite|1979|43885000|AIP
+1646|Prom Night (2008)|2008|43869350|SGem
+1647|Always|1989|43858790|Uni.
+1648|Soul Surfer|2011|43853424|TriS
+1649|Wall Street|1987|43848069|Fox
+1650|Diamonds Are Forever|1971|43819547|UA
+1651|License to Wed|2007|43799818|WB
+1652|Underdog|2007|43760605|BV
+1653|Pokemon: The Movie 2000|2000|43758684|WB
+1654|Tears of the Sun|2003|43734876|SonR
+1655|Soul Food|1997|43700855|Fox
+1656|West Side Story|1961|43656822|MGM
+1657|City Slickers II: The Legend of Curly's Gold|1994|43622150|Col.
+1658|Under the Tuscan Sun|2003|43610723|BV
+1659|Cats & Dogs: The Revenge of Kitty Galore|2010|43585753|WB
+1660|Police Academy 3: Back in Training|1986|43579163|WB
+1661|Need for Speed|2014|43577636|BV
+1662|We Are Marshall|2006|43545364|WB
+1663|A River Runs Through It|1992|43440294|Col.
+1664|Year One|2009|43337279|Sony
+1665|Edge of Darkness|2010|43313890|WB
+1666|Star Trek: Nemesis|2002|43254409|Par.
+1667|K-9|1989|43247647|Uni.
+1668|The Jungle Book (1994)|1994|43229904|BV
+1669|Point Break|1991|43218387|Fox
+1670|Biloxi Blues|1988|43184798|Uni.
+1671|Sense and Sensibility|1995|43182776|Sony
+1672|A Million Ways to Die in the West|2014|43139300|Uni.
+1673|No Reservations|2007|43107979|WB
+1674|Transporter 2|2005|43095856|Fox
+1675|You Only Live Twice|1967|43084787|UA
+1676|Reign of Fire|2002|43061982|BV
+1677|Wag the Dog|1997|43061945|NL
+1678|Meatballs|1979|43046003|Par.
+1679|John Wick|2014|43037835|LG/S
+1680|The Longest Yard (1974)|1974|43008075|Par.
+1681|Regarding Henry|1991|43001500|Par.
+1682|Rumor Has It|2005|43000262|WB
+1683|Escape from Alcatraz|1979|43000000|Par.
+1684|Snitch|2013|42930462|LG/S
+1685|The Devil's Own|1997|42868348|Sony
+1686|The Main Event|1979|42800000|WB
+1687|Gulliver's Travels|2010|42779261|Fox
+1688|Rambo|2008|42754105|LGF
+1689|Death at a Funeral (2010)|2010|42739347|SGem
+1690|The Lizzie McGuire Movie|2003|42734455|BV
+1691|Spanglish|2004|42726869|Sony
+1692|Heartbreak Ridge|1986|42724017|WB
+1693|Mannequin|1987|42721196|Fox
+1694|Because I Said So|2007|42674040|Uni.
+1695|The Unborn (2009)|2009|42670410|Uni.
+1696|Glory Road|2006|42647449|BV
+1697|Beverly Hills Cop III|1994|42614912|Par.
+1698|Final Destination 5|2011|42587643|WB (NL)
+1699|Casino|1995|42512375|Uni.
+1700|Welcome Home Roscoe Jenkins|2008|42436517|Uni.
+1701|Step Up 3-D|2010|42400223|BV
+1702|Time Bandits|1981|42365581|Emb
+1703|Resident Evil: Retribution|2012|42345531|SGem
+1704|Blue Thunder|1983|42313354|Col.
+1705|Lady in the Water|2006|42285169|WB
+1706|Teenage Mutant Ninja Turtles III|1993|42273609|NL
+1707|Planet 51|2009|42194060|Sony
+1708|Birdman|2014|42190774|FoxS
+1709|White Nights|1985|42160849|Col.
+1710|Drag Me to Hell|2009|42100625|Uni.
+1711|The Cabin in the Woods|2012|42073277|LGF
+1712|Fever Pitch|2005|42071069|Fox
+1713|Secondhand Lions|2003|42070939|NL
+1714|Dirty Rotten Scoundrels|1988|42039085|Orion
+1715|Riddick|2013|42025135|Uni.
+1716|Dolphin Tale 2|2014|42024533|WB
+1717|Around the World in 80 Days|1956|42000000|UA
+1718|Tyler Perry's Meet the Browns|2008|41975388|LGF
+1719|Donnie Brasco|1997|41909762|Sony
+1720|The Fisher King|1991|41895491|TriS
+1721|Thirteen Ghosts|2001|41867960|WB
+1722|Nights in Rodanthe|2008|41850659|WB
+1723|Return of the Pink Panther|1975|41833347|UA
+1724|Homeward Bound: The Incredible Journey|1993|41833324|BV
+1725|Exorcist: The Beginning|2004|41821986|WB
+1726|Aliens Vs. Predator - Requiem|2007|41797066|Fox
+1727|The Hills Have Eyes|2006|41778863|FoxS
+1728|Oh, God!|1977|41687243|WB
+1729|The Hours|2002|41675994|Par.
+1730|Cheech & Chong's Next Movie|1980|41675194|Uni.
+1731|Ronin|1998|41616262|MGM
+1732|Orphan|2009|41596251|WB
+1733|Bandits|2001|41575141|MGM
+1734|High Crimes|2002|41543917|Fox
+1735|Gremlins 2: The New Batch|1990|41482207|WB
+1736|The Great Outdoors|1988|41455230|Uni.
+1737|Pale Rider|1985|41410568|WB
+1738|About a Boy|2002|41385278|Uni.
+1739|Peggy Sue Got Married|1986|41382841|TriS
+1740|Gosford Park|2001|41308615|USA
+1741|Tequila Sunrise|1988|41292551|WB
+1742|A Walk to Remember|2002|41281092|WB
+1743|The Peacemaker|1997|41263140|DW
+1744|Private Parts|1997|41230799|Par.
+1745|What to Expect When You're Expecting|2012|41152203|LGF
+1746|Clash of the Titans (1981)|1981|41092328|MGM
+1747|Out of Time|2003|41088845|MGM
+1748|The Mirror Has Two Faces|1996|41083864|Sony
+1749|Orange County|2002|41076018|Par.
+1750|The Last Exorcism|2010|41034350|LGF
+1751|John Tucker Must Die|2006|41011711|Fox
+1752|End of Watch|2012|41003371|ORF
+1753|Poltergeist II: The Other Side|1986|40996665|MGM
+1754|The Siege|1998|40981289|Fox
+1755|The Ides of March|2011|40962534|Sony
+1756|Rocky V|1990|40946358|UA
+1757|The Water Horse: Legend of the Deep|2007|40946255|SonR
+1758|Pee-Wee's Big Adventure|1985|40940662|WB
+1759|Money Talks|1997|40922619|NL
+1760|Windtalkers|2002|40914068|MGM
+1761|Falling Down|1993|40903593|WB
+1762|Revenge of the Nerds|1984|40874452|Fox
+1763|House on Haunted Hill|1999|40846082|WB
+1764|Brewster's Millions|1985|40833132|Uni.
+1765|Absence of Malice|1981|40716963|Col.
+1766|Short Circuit|1986|40697761|TriS
+1767|Encino Man|1992|40693477|BV
+1768|Max Payne|2008|40689393|Fox
+1769|Stranger Than Fiction|2006|40660952|Sony
+1770|Mysteries of Egypt (IMAX)|1998|40593486|Imax
+1771|Three Fugitives|1989|40586886|BV
+1772|Pleasantville|1998|40584421|NL
+1773|The Dark Crystal|1982|40577001|Uni.
+1774|Duplicity|2009|40572825|Uni.
+1775|Jagged Edge|1985|40491165|Col.
+1776|Bill & Ted's Excellent Adventure|1989|40485039|Orion
+1777|Pretty in Pink|1986|40471663|Par.
+1778|The Fly|1986|40456565|Fox
+1779|2010|1984|40400657|MGM
+1780|Blue Crush|2002|40390647|Uni.
+1781|The Master of Disguise|2002|40388794|SonR
+1782|Reds|1981|40382659|Par.
+1783|You Got Served|2004|40363810|SGem
+1784|Swiss Family Robinson|1960|40356000|Dis.
+1785|Heartbreakers|2001|40336607|MGM
+1786|I Am Sam|2001|40311852|NL
+1787|The Faculty|1998|40283321|Mira.
+1788|Hanna|2011|40259119|Focus
+1789|Mo' Money|1992|40227006|Col.
+1790|Bridget Jones: The Edge of Reason|2004|40226215|Uni.
+1791|Hardball|2001|40222729|Par.
+1792|There Will Be Blood|2007|40222514|ParV
+1793|Yentl|1983|40218899|MGM
+1794|Catwoman|2004|40202379|WB
+1795|Legion (2010)|2010|40168080|SGem
+1796|The Piano|1993|40157856|Mira.
+1797|Big Business|1988|40150487|BV
+1798|Resident Evil|2002|40119709|SGem
+1799|The Wild Thornberrys|2002|40108697|Par.
+1800|Hannah and Her Sisters|1986|40084041|Orion
+1801|Righteous Kill|2008|40081410|Over.
+1802|Collateral Damage|2002|40077257|WB
+1803|Man of the House|1995|40070995|BV
+1804|Roxanne|1987|40050884|Col.
+1805|A Haunted House|2013|40041683|ORF
+1806|Enough|2002|40007742|Sony
+1807|I Still Know What You Did Last Summer|1998|40002112|Sony
+1808|Manhattan|1979|39946780|MGM
+1809|The Illusionist|2006|39868642|YFG
+1810|Caddyshack|1980|39846344|WB
+1811|The Ladykillers|2004|39799191|BV
+1812|The Beach|2000|39785027|Fox
+1813|Magnum Force|1973|39768000|WB
+1814|Friday the 13th (1980)|1980|39754601|Par.
+1815|Epic Movie|2007|39739367|Fox
+1816|Hitman|2007|39687694|Fox
+1817|Jackie Brown|1997|39673162|Mira.
+1818|Out for Justice|1991|39673161|WB
+1819|30 Days of Night|2007|39568996|Sony
+1820|Conan the Barbarian|1982|39565475|Uni.
+1821|Benji|1974|39552000|Mul.
+1822|The Texas Chainsaw Massacre: The Beginning|2006|39517763|NL
+1823|Hocus Pocus|1993|39514713|BV
+1824|Nobody's Fool|1994|39491975|Par.
+1825|Little Nicky|2000|39464775|NL
+1826|Crazy Heart|2009|39464306|FoxS
+1827|Burlesque|2010|39440655|SGem
+1828|Joe Versus the Volcano|1990|39404261|WB
+1829|Rugrats Go Wild|2003|39402572|Par.
+1830|Body of Lies|2008|39394666|WB
+1831|Dead Man Walking|1995|39363635|Gram.
+1832|The Expendables 3|2014|39322544|LGF
+1833|Blind Date|1987|39321715|TriS
+1834|Lakeview Terrace|2008|39263506|SGem
+1835|Anna and the King|1999|39263420|Fox
+1836|Three Amigos|1986|39246734|Orion
+1837|Pitch Black|2000|39240659|USA
+1838|The Adventures of Sharkboy and Lavagirl in 3D|2005|39177684|Dim.
+1839|The Grudge 2|2006|39143839|Sony
+1840|The Crazies|2010|39123589|Over.
+1841|The Sword and the Sorcerer|1982|39103425|Gr1
+1842|What's Love Got to Do with It|1993|39100956|BV
+1843|Undercover Brother|2002|39089928|Uni.
+1844|Postcards from the Edge|1990|39071603|Col.
+1845|The Sisterhood of the Traveling Pants|2005|39053061|WB
+1846|Something Borrowed|2011|39046489|WB
+1847|Fracture|2007|39015018|NL
+1848|Primary Colors|1998|39001187|Uni.
+1849|Funny Lady|1975|39000000|Col.
+1850|The Karate Kid Part III|1989|38956288|Col.
+1851|Earth to Echo|2014|38934842|Rela.
+1852|Hot Shots! Part Deux|1993|38922972|Fox
+1853|French Kiss|1995|38896854|Fox
+1854|The Paper|1994|38824341|Uni.
+1855|Happy Gilmore|1996|38824099|Uni.
+1856|Little Shop of Horrors|1986|38748395|WB
+1857|About Last Night...|1986|38702310|TriS
+1858|Breakin'|1984|38682707|Can.
+1859|Stardust|2007|38634938|Par.
+1860|The Great Mouse Detective|1986|38625550|BV
+1861|The Ghost and the Darkness|1996|38619405|Par.
+1862|On Deadly Ground|1994|38590458|WB
+1863|Surrogates|2009|38577772|BV
+1864|Sex Tape|2014|38543473|Sony
+1865|Spy Kids: All the Time in the World|2011|38538188|W/Dim.
+1866|McFarland, USA|2015|38531357|BV
+1867|Rock of Ages|2012|38518613|WB (NL)
+1868|Running Scared|1986|38500726|MGM
+1869|Bachelor Party|1984|38435947|Fox
+1870|Gridiron Gang|2006|38432823|Sony
+1871|Midnight Run|1988|38413606|Uni.
+1872|Pride and Prejudice|2005|38405088|Focus
+1873|Last Holiday|2006|38399961|Par.
+1874|Red Dawn (1984)|1984|38376497|MGM
+1875|The Terminator|1984|38371200|Orion
+1876|47 Ronin|2013|38362475|Uni.
+1877|City Heat|1984|38348988|WB
+1878|Evolution|2001|38345494|DW
+1879|Cruel Intentions|1999|38328567|Sony
+1880|Higher Learning|1995|38290723|Sony
+1881|Not Another Teen Movie|2001|38252284|Sony
+1882|Annie Hall|1977|38251425|UA
+1883|Meet the Spartans|2008|38233676|Fox
+1884|Herbie Rides Again|1974|38229000|Dis.
+1885|Mighty Morphin' Power Rangers|1995|38187431|Fox
+1886|The Original Kings of Comedy|2000|38182790|Par.
+1887|Scream 4|2011|38180928|W/Dim.
+1888|10 Things I Hate About You|1999|38178166|BV
+1889|Treasure Planet|2002|38176783|BV
+1890|Head of State|2003|38125247|DW
+1891|Ninja Assassin|2009|38122883|WB
+1892|The Running Man|1987|38122105|TriS
+1893|The Doctor|1991|38120905|BV
+1894|Spaceballs|1987|38119483|MGM
+1895|Harold and Kumar Escape from Guantanamo Bay|2008|38108728|WB (NL)
+1896|Richie Rich|1994|38087756|WB
+1897|Showtime|2002|38082712|WB
+1898|Urban Legend|1998|38072438|Sony
+1899|Bill and Ted's Bogus Journey|1991|38037513|Orion
+1900|Dead Again|1991|38016380|Par.
+1901|Seven Years in Tibet|1997|37957682|Sony
+1902|40 Days and 40 Nights|2002|37950822|Mira.
+1903|It Could Happen to You|1994|37939757|TriS
+1904|First Sunday|2008|37931869|SGem
+1905|The Brothers Grimm|2005|37916267|Dim.
+1906|Big Mommas: Like Father, Like Son|2011|37915414|Fox
+1907|Jeepers Creepers|2001|37904175|UA
+1908|The Dead Pool|1988|37903295|WB
+1909|Bedazzled (2000)|2000|37886980|Fox
+1910|All That Jazz|1979|37823676|Fox
+1911|St. Elmo's Fire|1985|37803872|Col.
+1912|The Black Stallion|1979|37799643|UA
+1913|Mars Attacks!|1996|37771017|WB
+1914|The Secret Life of Bees|2008|37770162|FoxS
+1915|Sky Captain and the World of Tomorrow|2004|37762677|Par.
+1916|Autumn in New York|2000|37761915|MGM
+1917|Wild (2014)|2014|37746977|FoxS
+1918|August: Osage County|2013|37738810|Wein.
+1919|For Colored Girls|2010|37729698|LGF
+1920|Philomena|2013|37709979|Wein.
+1921|How Stella Got Her Groove Back|1998|37672941|Fox
+1922|Good Boy!|2003|37667746|MGM
+1923|Red Riding Hood|2011|37662162|WB
+1924|Pan's Labyrinth|2006|37634615|PicH
+1925|The Nativity Story|2006|37629831|NL
+1926|First Knight|1995|37600435|Sony
+1927|Out of Sight|1998|37562568|Uni.
+1928|In Time|2011|37520095|Fox
+1929|Abraham Lincoln: Vampire Hunter|2012|37519139|Fox
+1930|The Money Pit|1986|37499651|Uni.
+1931|Invictus|2009|37491364|WB
+1932|The Back-Up Plan|2010|37490007|CBS
+1933|Raising Helen|2004|37486512|BV
+1934|Song of the South (Re-issue) (1980)|1980|37459346|BV
+1935|Paul|2011|37412945|Uni.
+1936|Lawless|2012|37400127|Wein.
+1937|The Wild|2006|37384046|BV
+1938|Man of the Year|2006|37327390|Uni.
+1939|J. Edgar|2011|37306030|WB
+1940|The Roommate|2011|37300107|SGem
+1941|Jumping the Broom|2011|37295394|TriS
+1942|Crossroads|2002|37191304|Par.
+1943|Semi-Tough|1977|37187139|UA
+1944|Uptown Girls|2003|37182494|MGM
+1945|28 Days|2000|37170488|Sony
+1946|The Guilt Trip|2012|37134215|Par.
+1947|Brubaker|1980|37121708|Fox
+1948|Tyler Perry's The Family That Preys|2008|37105289|LGF
+1949|The Change-Up|2011|37081475|Uni.
+1950|30 Minutes or Less|2011|37053924|Sony
+1951|Keeping the Faith|2000|37047880|BV
+1952|Fight Club|1999|37030102|Fox
+1953|Sphere|1998|37020277|WB
+1954|State of Play|2009|37017955|Uni.
+1955|Clockstoppers|2002|36989956|Par.
+1956|Carlito's Way|1993|36948322|Uni.
+1957|That's My Boy|2012|36931089|Sony
+1958|The Family (2013)|2013|36918811|Rela.
+1959|Matchstick Men|2003|36906460|WB
+1960|16 Blocks|2006|36895141|WB
+1961|Just Cause|1995|36853222|WB
+1962|The Apple Dumpling Gang|1975|36853000|Dis.
+1963|My Favorite Martian|1999|36850101|BV
+1964|Kiss of the Dragon|2001|36845124|Fox
+1965|Notorious (2009)|2009|36843682|FoxS
+1966|Best Friends|1982|36821203|WB
+1967|Bounce|2000|36805288|Mira.
+1968|The Brave One|2007|36793804|WB
+1969|The Heartbreak Kid|2007|36787257|P/DW
+1970|Rear Window|1954|36764313|Par.
+1971|Junior|1994|36763355|Uni.
+1972|Alive|1993|36733909|BV
+1973|Recess: School's Out|2001|36706141|BV
+1974|Friday the 13th Part III|1982|36690067|Par.
+1975|Colombiana|2011|36665854|TriS
+1976|8MM|1999|36663315|Sony
+1977|Vampires Suck|2010|36661504|Fox
+1978|Gung Ho|1986|36611610|Par.
+1979|Taxi|2004|36611066|Fox
+1980|Freedom Writers|2007|36605602|Par.
+1981|The 'Burbs|1989|36601993|Uni.
+1982|Tarzan, the Ape Man|1981|36565280|MGM
+1983|Soapdish|1991|36489888|Par.
+1984|To Wong Foo, Thanks for Everything, Julie Newmar|1995|36474193|Uni.
+1985|Set It Off|1996|36461139|NL
+1986|Million Dollar Arm|2014|36457627|BV
+1987|Son-in-Law|1993|36448400|BV
+1988|All of Me|1984|36403064|Uni.
+1989|The Thin Red Line|1998|36400491|Fox
+1990|Vegas Vacation|1997|36400360|WB
+1991|Sucker Punch|2011|36392502|WB
+1992|National Security|2003|36381186|Sony
+1993|Beauty Shop|2005|36351350|MGM
+1994|Accepted|2006|36323505|Uni.
+1995|Death Race|2008|36316032|Uni.
+1996|Sliver|1993|36300000|Par.
+1997|Universal Soldier|1992|36299898|TriS
+1998|Richard Pryor: Live on the Sunset Strip|1982|36299720|Col.
+1999|The Sentinel|2006|36280697|Fox
+2000|Mad Max Beyond Thunderdome|1985|36230219|WB

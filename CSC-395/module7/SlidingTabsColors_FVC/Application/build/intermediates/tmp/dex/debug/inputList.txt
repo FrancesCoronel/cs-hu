@@ -1,0 +1,4 @@
+/Users/fvcproductions/AndroidStudioProjects/SlidingTabsColors_FVC/Application/build/intermediates/classes/debug
+/Users/fvcproductions/AndroidStudioProjects/SlidingTabsColors_FVC/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b89c9c4b2acac4b92147b941dd8b702dd9553fe7.jar
+/Users/fvcproductions/AndroidStudioProjects/SlidingTabsColors_FVC/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-e0117ccfbe7c0e3268c89c0c0e082a654eeb2df7.jar
+/Users/fvcproductions/AndroidStudioProjects/SlidingTabsColors_FVC/Application/build/intermediates/pre-dexed/debug/classes-f5503baaa3dfbf91842abc0b359321d03510c4db.jar

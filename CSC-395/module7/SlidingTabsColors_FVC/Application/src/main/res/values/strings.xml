@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_stream">Wall</string>
+    <string name="tab_messages">Chat</string>
+    <string name="tab_notifications">Alerts</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_friends">Buddies</string>
+    <string name="tab_stream_info">This is where you can figure out what your buddies are up to.</string>
+    <string name="tab_messages_info">This is where you chat with buddies.</string>
+    <string name="tab_photos_info">This is where you view all the photos of your buddies.</string>
+    <string name="tab_friends_info">This is where you can see your buddies.</string>
+
+</resources>

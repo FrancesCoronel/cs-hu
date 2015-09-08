@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<!--FVCPRODUCTIONS-->
+
+<head>
+    <title>My First JavaScript</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>My First JavaScript</h1> </br>
+    <table width=80% border=1>
+        <tr>
+            <th>
+                <h2>Tasks</h2>
+            </th>
+            <th>
+                <h2>Button</h2>
+            </th>
+            <th>
+                <h2>Output Message</h2>
+            </th>
+        </tr>
+        <tr>
+            <td>Show Date & Time</td>
+            <td>
+                <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
+                    <p>Click to display date & time.</p>
+                </button>
+            </td>
+            <td>
+                <p id="demo"></p>
+            </td>
+        </tr>
+        <tr>
+            <td>Changing Images</td>
+            <td>
+                <p>Click on images to toggle.</p>
+            </td>
+            <td> <img id="image1" src="buttonBefore.png" width="100" height="100">
+                <br> <img id="image2" src="planeBefore.png" width="100" height="100">
+                <br> <img id="image3" src="bluetoothBefore.png" width="100" height="100">
+                <br> <img id="image4" src="wifiBefore.png" width="100" height="100">
+                <br> <img id="image5" src="sunBefore.png" width="100" height="100"> </td>
+        </tr>
+        <tr>
+            <td>Validating Data</td>
+            <td>
+                <p>Enter your birthday.</p>
+            </td>
+            <td> Day</br>
+                </br>
+                <input type="number" id="dd"> </br>
+                </br> Month</br>
+                </br>
+                <input type="number" id="mm"> </br>
+                </br>
+                <button type="button" id="checkDate" onclick="checkDate()">Submit</button>
+                <p id="checkedDate">Result</p>
+            </td>
+        </tr>
+        <tr>
+            <td>String and String Methods</td>
+            <td>
+                <p>Counting vowels in string.</p>
+            </td>
+            <td> Enter string</br>
+                </br>
+                <input type="text" id="theString"> </br>
+                </br>
+                <button type="button" id="checkVowels" onclick="checkVowels()">count vowels</button>
+                </br>
+                </br>
+                <table>
+                    <tr>
+                        <td>a</td>
+                        <td>e</td>
+                        <td>i</td>
+                        <td>o</td>
+                        <td>u</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id='theavowels'></p>
+                        </td>
+                        <td>
+                            <p id='theevowels'></p>
+                        </td>
+                        <td>
+                            <p id='theivowels'></p>
+                        </td>
+                        <td>
+                            <p id='theovowels'></p>
+                        </td>
+                        <td>
+                            <p id='theuvowels'></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>Number and Number Methods</td>
+            <td>
+                <p>Finding min, max, average, and sum of 5 numbers.</p>
+            </td>
+            <td> Enter 1st number </br>
+                </br>
+                <input type="number" id="number1"> </br>
+                </br> Enter 2nd number </br>
+                </br>
+                <input type="number" id="number2"> </br>
+                </br> Enter 3rd number </br>
+                </br>
+                <input type="number" id="number3"> </br>
+                </br> Enter 4th number </br>
+                </br>
+                <input type="number" id="number4"> </br>
+                </br> Enter 5th number </br>
+                </br>
+                <input type="number" id="number5"> </br>
+                </br>
+                <button type="button" id="getStats" onclick="getStats()">get statistics</button>
+                </br>
+                </br>
+                <table>
+                    <tr>
+                        <td>min</td>
+                        <td>max</td>
+                        <td>sum</td>
+                        <td>average</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id='themin'></p>
+                        </td>
+                        <td>
+                            <p id='themax'></p>
+                        </td>
+                        <td>
+                            <p id='thesum'></p>
+                        </td>
+                        <td>
+                            <p id='theaverage'></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    </br>
+</body>
+
+</html>

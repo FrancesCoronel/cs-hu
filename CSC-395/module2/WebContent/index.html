@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="ISO-8859-1">
+    <title>HU HTML5</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="tooltip.css" />
+    <link rel="stylesheet" type="text/css" href="../dist/semantic.css">
+    <!-- CHANGED -->
+    <!--  http://www.w3schools.com/html/tryit.asp?filename=tryhtml_html5_skeleton_4  -->
+    <!--  yes computer science - mp3 from http://projects.robinrizvi.info/webtts/server_side/tts_serverside_google.php -->
+    <style>
+        html,
+        body {
+            font-family: 'Open Sans', sans-serif;
+        }
+        body,
+        p {
+            font-size: 20px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 400;
+        }
+        div#header,
+        div#footer,
+        div#content,
+        div#post {
+            border: 5px solid black;
+            margin: 5px;
+            padding: 5px;
+            background-color: #FBAC43;
+            text-align: center;
+            font-size: 25px;
+        }
+        div#post {
+            background-color: white;
+        }
+        div#header,
+        div#footer {
+            color: white;
+            background-color: #D45027;
+            margin-bottom: 5px;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 400;
+        }
+        div#menu ul {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        div#menu ul li {
+            display: inline;
+            margin: 5px;
+        }
+        header,
+        footer,
+        section,
+        article {
+            border: 1px solid grey;
+            margin: 5px;
+            margin-bottom: 5px;
+            padding: 8px;
+            background-color: white;
+        }
+        header,
+        footer {
+            color: white;
+            background-color: #000000;
+            padding: 3rem 0rem;
+        }
+        section {
+            background-color: #ddd;
+        }
+        nav ul {
+            margin: 0;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 5px;
+            text-decoration: none;
+            border: 1px solid $button-color;
+            height: $height;
+            width: $width;
+            padding: 0;
+        }
+        button {
+            cursor: url("http://downloads.totallyfreecursors.com/cursor_files/banana-dance-ani.ani"), url("http://downloads.totallyfreecursors.com/thumbnails/banana-dance-ani.gif"), auto;
+            padding: 10px;
+            font-size: 20px;
+            font-family: 'Open Sans', sans-serif;
+            background: white;
+            border: 5px outset #5A7132;
+            width: 10%;
+            font-weight: bold;
+        }
+        button#say {
+            cursor: help;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <h1>HU HTML5</h1> </div>
+    <div id="menu">
+        <ul>
+            <li>
+                <button onclick='jump();'>Jump</button>
+            </li>
+            <li>
+                <button onclick='blink();'>Blink</button>
+            </li>
+            <li>
+                <button onclick='shrink();'>Shrink</button>
+            </li>
+            <li>
+                <button onclick='grow();'>Grow</button>
+            </li>
+            <li>
+                <button id="say"> <a href="#" class="tooltip">Say
+					<span><h2>Call me Giorgio.</h2></span></a> </button>
+            </li>
+            <li>
+                <audio id="player" src="hello.mp3"></audio>
+                <button onclick="document.getElementById('player').play()">Speak</button>
+            </li>
+            <li>
+                <audio id="yolo" src="giorgio.mp3"></audio>
+                <button onclick="document.getElementById('yolo').play()">Listen</button>
+            </li>
+        </ul>
+    </div>
+    <div id="content">
+        <div id="post">
+            <div id="canvasDiv"></div>
+            <script type="text/javascript" src="html5-canvas-game-character-2.js"></script>
+            <script type="text/javascript">
+                prepareCanvas(document.getElementById("canvasDiv"), 490, 220);
+                document.getElementById("canvasDiv").onmousedown = function() {
+                    jump();
+                }
+            </script>
+        </div>
+    </div>
+    <div id="footer">
+        <p>FVCproductions</p>
+    </div>
+</body>
+
+</html>

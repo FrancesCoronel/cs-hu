@@ -1,0 +1,52 @@
+.tooltip {
+    position: relative;
+    cursor: help;
+    display: inline-block;
+    text-decoration: none;
+    color: #222;
+    outline: none;
+}
+.tooltip span {
+    visibility: hidden;
+    position: absolute;
+    padding: 0;
+    bottom: 30px;
+    left: 50%;
+    z-index: 999;
+    width: 230px;
+    margin-left: -127px;
+    border: 3px solid black;
+    /*added on*/
+    
+    background-color: white;
+    /*added on*/
+    
+    border-radius: 10px;
+    /*added on*/
+}
+.tooltip:hover {
+    border: 0;
+    /* IE6 fix */
+}
+.tooltip:hover span {
+    visibility: visible;
+}
+.tooltip span:before,
+.tooltip span:after {
+    content: "";
+    position: absolute;
+    z-index: 1000;
+    bottom: -7px;
+    left: 50%;
+    border-top: 8px solid white;
+    /*added on*/
+    
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 1px solid transparent;
+    /*added on*/
+}
+.tooltip span:before {
+    border-top-color: #ccc;
+    bottom: -8px;
+}

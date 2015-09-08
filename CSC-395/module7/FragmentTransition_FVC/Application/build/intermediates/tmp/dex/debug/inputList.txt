@@ -1,0 +1,7 @@
+/Users/fvcproductions/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/classes/debug
+/Users/fvcproductions/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-364b9a27bcddd7132fdfbbccc3ae9638a6dfb5f3.jar
+/Users/fvcproductions/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b89c9c4b2acac4b92147b941dd8b702dd9553fe7.jar
+/Users/fvcproductions/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/classes-e1bf538ea74188b09705da7271411f36ee0597ea.jar
+/Users/fvcproductions/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/classes-46458d043ee6982d513542116578d851bcb88286.jar
+/Users/fvcproductions/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-aaf3d36c1005ed6fd0305677ead584c9b9571f2c.jar
+/Users/fvcproductions/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/classes-04b4cab05d16bf7b22449cdb2ccc6988ab5f509a.jar
