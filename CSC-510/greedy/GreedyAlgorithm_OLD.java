@@ -1,3 +1,9 @@
+/**
+ * Greedy Algorithm
+ * FVCproductions
+ * 09.08.2015
+ */
+
 import java.util.*;
 
 class GreedyAlgorithm {
