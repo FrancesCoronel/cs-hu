@@ -1,0 +1,21 @@
+total 45
+drwxrwxr-x+ 90 root            admin  3060 Oct  1 20:45 Applications
+drwxr-xr-x+ 62 root            wheel  2108 Sep 11 11:18 Library
+drwxr-xr-x@  2 root            wheel    68 Aug 22 17:35 Network
+drwx------   9 fvcproductions  staff   306 Sep 12 16:57 OS X Install Data
+drwxr-xr-x@  4 root            wheel   136 Sep 22 19:31 System
+drwxr-xr-x   6 root            admin   204 Sep 10 13:29 Users
+drwxrwxrwt@  5 root            admin   170 Oct  1 20:57 Volumes
+drwxr-xr-x@ 39 root            wheel  1326 Sep  3 08:01 bin
+drwxrwxr-t@  2 root            admin    68 Aug 22 17:35 cores
+dr-xr-xr-x   3 root            wheel  4255 Sep 30 12:39 dev
+lrwxr-xr-x@  1 root            wheel    11 Sep 10 12:58 etc -> private/etc
+dr-xr-xr-x   2 root            wheel     1 Sep 30 12:45 home
+-rw-r--r--@  1 root            wheel   313 Aug 22 22:35 installer.failurerequests
+dr-xr-xr-x   2 root            wheel     1 Sep 30 12:45 net
+drwxrwxr-x   3 root            wheel   102 Sep 11 11:32 opt
+drwxr-xr-x@  6 root            wheel   204 Sep 10 13:00 private
+drwxr-xr-x@ 59 root            wheel  2006 Sep 22 19:30 sbin
+lrwxr-xr-x@  1 root            wheel    11 Sep 10 12:58 tmp -> private/tmp
+drwxr-xr-x@ 13 root            wheel   442 Sep 11 11:18 usr
+lrwxr-xr-x@  1 root            wheel    11 Sep 10 12:59 var -> private/var

@@ -1,0 +1,16 @@
+total 13600
+-rwxr-xr-x 1 root root   17824 Jun 19  2014 bootcode.bin
+-rwxr-xr-x 1 root root     120 Jun 20  2014 cmdline.txt
+-rwxr-xr-x 1 root root    1180 Jun 20  2014 config.txt
+-rwxr-xr-x 1 root root    2090 Jun 19  2014 fixup_cd.dat
+-rwxr-xr-x 1 root root    5845 Jun 19  2014 fixup.dat
+-rwxr-xr-x 1 root root    8822 Jun 19  2014 fixup_x.dat
+-rwxr-xr-x 1 root root     137 Jun 20  2014 issue.txt
+-rwxr-xr-x 1 root root 4032096 Oct 17 20:16 kernel.img
+-rwxr-xr-x 1 root root 3192224 Jun 19  2014 kernel.img.bak
+-rwxr-xr-x 1 root root   18974 Sep 25  2013 LICENSE.oracle
+-rwxr-xr-x 1 root root       0 Oct 17 20:35 output.txt
+-rwxr-xr-x 1 root root  512792 Jun 19  2014 start_cd.elf
+-rwxr-xr-x 1 root root 2557720 Jun 19  2014 start.elf
+-rwxr-xr-x 1 root root 3500744 Jun 19  2014 start_x.elf
+-rwxr-xr-x 1 root root       0 Oct 17 20:31 theOutput.log

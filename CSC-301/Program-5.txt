@@ -1,0 +1,10 @@
+[   19.499126] FAT-fs (mmcblk0p1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+[   22.466292] smsc95xx 1-1.1:1.0 eth0: hardware isn't capable of remote wakeup
+[   23.935045] smsc95xx 1-1.1:1.0 eth0: link up, 100Mbps, full-duplex, lpa 0x43E1
+[   29.657168] Adding 102396k swap on /var/swap.  Priority:-1 extents:1 across:102396k SSFS
+[   31.147222] uart-pl011 dev:f1: no DMA platform data
+[  406.116802] Hello World System Call
+[  407.652794] Hello World System Call
+[  409.540596] Hello World System Call
+[  410.820575] Hello World System Call
+[  414.380888] Hello World System Call

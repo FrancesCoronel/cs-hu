@@ -1,0 +1,43 @@
+# Sophomore Accepts A Summer Internship With Apple
+
+![Lauren Patterson](https://huacm.files.wordpress.com/2015/02/960x640-jpeg-7b971f4cfe4046fd90457de5bd8b5144.jpg)
+
+---
+
+### Interviewee
+* Lauren Patterson, Sophomore, CSC, Tutor for CSC 152
+> Contact her through Facebook.
+
+---
+
+###Interviewer 
+* [This Typeform](https://violetsiegius.typeform.com/to/QqK9Fh) created by [FVCproductions](http://fvcproductions.com), Junior, CSC, Website Committee Chair of ACM
+> Tweet her [@fvcproductions](http://twitter.com/fvcproductions)
+
+---
+
+1. **How do you feel about getting your internship at [Apple](http://apple.com)?**
+> Excited.
+2. **Did you have to go through an interview?**
+> Yes.
+3. **How did you prepare for the interview? If you didn't, why not?**
+> Practice problems.
+4. **According to you, how easy was the interview?** *10 being "Never again." and 1 being "Piece of cake."*
+> 8
+5. **What are some of the hardships you faced during the interview?**
+> The questions were very open ended so they had a lot of possible answers.
+6. **What's your position title (e.g. Software Engineer Intern, Research Assistant, etc.)?**
+> Software Engineer.
+7. **What technologies will you be working with (e.g. working in network security in C++, web development in JavaScript and HTML/CSS, research in efficient AUV design, etc.)?**
+> Hadoop.
+8. **How satisfied are you with your salary?** *10 being "Couldn't be better." and 1 being "This is just sad."*
+> 10.
+9. **What tips or tricks would you offer others (like freshies) for their internship process?**
+> Don't just focus on the code but how you can make your code better.
+10. **Are you a member of the ACM club here at Hampton?**
+> Yes.
+
+---
+
+> Want to get featured on this website?
+>> Submit your summer plans through this [Typeform](https://violetsiegius.typeform.com/to/QqK9Fh)!

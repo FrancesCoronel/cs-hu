@@ -1,0 +1,77 @@
+# DCHACK 2014 
+
+So this year, [CS@HU](http://facebook.com/CSHamptonU) bought a total **43** students to DCHack 2014, a hackathon that was hosted by Google at their office in Washington, DC. Each team had to have a minimum of 3 people with a maximum of 5 members.
+
+## Drum roll... and the Winners are...
+
+**1. First Place - HU**
+	* Hooli
+**2. Second Place - HU**
+	* Computer Rangers
+3. Third Place - Howard
+**4. Honorable Mention - HU**
+	* Golden Narwhal
+
+### *Here are the teams and their members from HU*
+> Not listed in any particular order.
+
+1. **R.P.D**
+	* Julian Boyd  
+	* Emmett Elliott  
+	* Jason James
+	* Chez McDermott
+	* Jamauni Taylor
+2. **Golden Narwhal**
+	* William Brown
+	* Gretchen Farrow
+	* Cameron Peele
+	* Dallas Thompson III
+3. **Go Blue**
+	* Kristin Burnett
+	* Noelle Harp
+	* Courtney Hayslett
+	* Zhanel Tucker
+	* Brandon Williams
+4. **Amitek**
+	* Anisha Carter
+	* Dominique Collins
+	* FVCproductions
+	* Evan Howard
+	* Julian Mathis
+5. **HU-Grad**
+	* Russell Covington
+	* Kehinde Orogbangda
+	* Taiwo Orogbangda
+	* Swedhana Viswanathan
+6. **Sick With the Python**
+	* Nicholas Gobem
+	* Douglas Harmon
+	* Audrey Hector
+	* Justin Jones
+	* Brianna Thomas
+7. **Pirates**
+	* Zachary Hinton  
+	* Tyler Mason  
+	* Aaron McLeod  
+	* Kenisha Stephens  
+8. **Computer Rangers**
+	* Kamali Lowe  
+	* Zora Moore  
+	* Whitney Nelson  
+	* Dorian Thompson  
+	* Malik White  
+9. **Hooli**
+	* Blake McMillian  
+	* Lauren Patterson  
+	* Albert Toledo  
+10. **PI-square-RU**
+	* Nia Prunty  
+	* Wesley Sapp  
+	* Trent Williams   
+
+Hope you enjoyed the Hackathon!  
+- [**ACM@HU**](http://huacm.wordpress.com)
+
+> *Tips or Tricks?*
+>> tweet us at [@acm_hu](http://twitter.com/acm_hu)
+

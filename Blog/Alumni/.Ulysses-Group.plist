@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Alumni Index.txt</string>
+		</array>
+		<array>
+			<string>AshleyWilliams.txt</string>
+		</array>
+		<array>
+			<string>Briana Johnson.txt</string>
+		</array>
+		<array>
+			<string>Carl Arrington.txt</string>
+		</array>
+		<array>
+			<string>Chazz Scott.txt</string>
+		</array>
+		<array>
+			<string>Chris Queen.txt</string>
+		</array>
+		<array>
+			<string>Ehijele E. Olumese.txt</string>
+		</array>
+		<array>
+			<string>Hasani Burns.txt</string>
+		</array>
+		<array>
+			<string>Jason Bernier.txt</string>
+		</array>
+		<array>
+			<string>Jennifer Gregory.txt</string>
+		</array>
+		<array>
+			<string>Julian Ross.txt</string>
+		</array>
+		<array>
+			<string>Malik Johnson.txt</string>
+		</array>
+		<array>
+			<string>Marcus Wells.txt</string>
+		</array>
+		<array>
+			<string>Samantha Allen.txt</string>
+		</array>
+		<array>
+			<string>Tariq Wilson.txt</string>
+		</array>
+		<array>
+			<string>Alumni Index - Hard.txt</string>
+		</array>
+	</array>
+</dict>
+</plist>
