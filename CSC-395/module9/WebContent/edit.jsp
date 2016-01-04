@@ -19,7 +19,7 @@
 	String sTi = "";
 	Integer sYe = 9999;
 	String sPo = "";
-	
+
 	// get webform data
 	String formaction = "";
 	Integer formid = 0;
@@ -29,24 +29,24 @@
 
 	if (request.getParameter("id") != null)
 		formid =  Integer.parseInt(request.getParameter("id"));
-	
+
 	// get applicaton parameter
 	String databaseURL = "jdbc:mysql://localhost:3306/moviesdb";
 	String username = "root";
 	String password = "";
-		
+
 	// connect to database
 	Connection conn = null;
 	PreparedStatement stmt = null;
 	com.mysql.jdbc.Driver d = null;
-	
-	
+
+
 	// if we pass edit; expect to update records
 	if (formaction.equals("edit")) {
 		String formtitle = request.getParameter("title");
 		Integer formyear = Integer.parseInt(request.getParameter("year"));
 		String formposter = request.getParameter("poster");
-		
+
 		try {
 			d = new com.mysql.jdbc.Driver();
 			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/moviesdb", "root","");
@@ -58,13 +58,13 @@
 			stmt.setInt(4, formid);
 
 			System.out.println(sqlStr); // for debugging
-			
+
 			if(stmt.execute()) {
 				out.println("Record update failed! <br>");
 			} else {
 				out.println("Record was updated. <br>");
 			}
-					
+
 		}
 
 		catch (SQLException ex) {
@@ -88,7 +88,7 @@
 			}
 		}
 	}
-	
+
 	// if we pass a valid id; return form
 	if ( formid >= 1) {
 		try {
@@ -97,22 +97,22 @@
 			conn = DriverManager.getConnection(databaseURL, username, password);
 			stmt = conn.prepareStatement(sqlStrFind);
 			stmt.setInt(1, formid);
-			
+
 			//System.out.println(sqlStrFind); // for debugging
-			
+
 			ResultSet rset = stmt.executeQuery();
 			while (rset.next()) { // list all results
 				sId = rset.getInt("id");
 				sTi = rset.getString("title");
 				sYe = rset.getInt("year");
 				sPo = rset.getString("poster");
-	
+
 				out.println("Movie with id " + sId + " found");
 			}
-			
+
 			if(sId >= 1)
 			{
-			
+
 				%>
 			<form action='#' method='post'>
 				<table border=0>
