@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'circ';
+  src: url('../fonts/circ.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/circ.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/circ.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/circ.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/circ.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/circ.svg#circ') format('svg'); /* Legacy iOS */
+}
+
+* {
+  margin:0 auto;
+  padding:15px;
+  font-size: 15px;
+  text-decoration: none;
+  font-family: 'circ', 'Helvetica', sans-serif;
+  text-align: center;
+}
+
+body {
+  color: #fff;
+  background-color: #222c37;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  margin: 0;
+  font-size: larger;
+  text-rendering: optimizeLegibility;
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+  background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/congruent_outline.png");
+}
+
+table {
+    border-collapse: collapse;
+}
+
+audio {
+	display: -webkit-box;
+	width: 90%;
+}
+
+th {
+	text-align: center;
+	color:  #00B6C3;
+	font-size: large;
+}
+
+input {
+	margin: 2%;
+	color: black;
+}
+
+button.btn.btn-success-outline.btn-lg {
+    margin-bottom: 5%;
+    font-size: large;
+}
+
+a {
+	color: #fff;
+}
+
+#special {
+	font-size: -webkit-xxx-large;
+}
+
+a:hover {
+	color: #00B6C3;
+}
+
+#custom {
+	border: none;
+}
+
+/* Center main content horizontally and vertically */
+main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  color: #fff;
+}
+
+h1 small, h2 small, h3 small,
+h4 small, h5 small, h6 small, p {
+  color: #a4bdd1;
+  font-size: 0.36em;
+}
+
+h1, h2 {
+  font-size: 72px;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+h2 small {
+  display: block;
+  margin-top: 10px;
+}
+
+i.fa.fa-pencil-square-o {
+    font-size: x-large;
+}
+
+i.fa.fa-trash {
+	font-size: x-large;
+}

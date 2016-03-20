@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'circ';
+  src: url('../fonts/circ.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/circ.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/circ.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/circ.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/circ.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/circ.svg#circ') format('svg'); /* Legacy iOS */
+}
+
+body {
+  font-family: 'circ', 'Helvetica', sans-serif;
+  color: #a4bdd1;
+  background-color: #222c37;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  margin: 0;
+}
+
+/* Center main content horizontally and vertically */
+main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  color: #fff;
+}
+
+h1 small, h2 small, h3 small,
+h4 small, h5 small, h6 small {
+  color: #a4bdd1;
+  font-size: 0.36em;
+}
+
+h1 {
+  /* Image replacement */
+  border: 0;
+  font: 0/0 a;
+  text-shadow: none;
+  color: transparent;
+  /* Image parameters */
+  background: url(../media/logo.png);
+  width: 256px;
+  height: 256px;
+  /* Centering */
+  margin: 0 auto;
+}
+
+h1, h2 {
+  font-size: 72px;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+h2 small {
+  display: block;
+  margin-top: 10px;
+}
+
+video {
+  display: block;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  height: auto;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -100;
+  background: transparent url(../media/background-video-poster.jpg) no-repeat;
+  background-size: cover;
+}
+
+.video-overlay {
+  /* Overlay style */
+  background-color: #222c37;
+  opacity: 0.9;
+  /* Stretch to full screen */
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  height: auto;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -99;
+}
