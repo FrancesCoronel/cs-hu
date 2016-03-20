@@ -1,0 +1,10 @@
+C:\Users\frances.coronel\Documents\Visual Studio 2015\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.cblprojResolveAssemblyReference.cache
+C:\Users\frances.coronel\Documents\Visual Studio 2015\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\frances.coronel\Documents\Visual Studio 2015\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\frances.coronel\Documents\Visual Studio 2015\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\frances.coronel\Documents\Visual Studio 2015\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+F:\BubbleSort\BubbleSort\obj\Debug\BubbleSort.cblprojResolveAssemblyReference.cache
+F:\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+F:\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+F:\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+F:\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
