@@ -1,22 +1,3 @@
-Write a Bubble Sort program in the Macro Assembler Programming Language that sorts the array below in ascending order.  You should determine the size of the array by placing a label at the end of the array and using an equ statement, i.e., the program should be able to work with any size of array.  For example,
-
- array    dword 34, 56, 4, 10, 77, 51, 93, 30, 5, 52
-endarray  dword 0
-arraysize equ endarray-array
-
-
- In order to make comparisons between the various programming languages easier we will keep the variable name array, however we will not need the variables i, j, and temp, as these values will be held in registers.
-
-  Array to be sorted is 34, 56, 4, 10, 77, 51, 93, 30, 5, 52
-
- The program should:
-
-Print the unsorted array.
-Use the Bubble Sort Algorithm to sort the array in ascending order.
-Print the sorted array.
-
- The output should look like the following:
-
 ;
 ; Bubble Sort Program
 ;

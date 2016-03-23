@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<!>
+<! Compare Two Numbers >
+<!>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">
+var number1;
+var number2;
+
+function get_number1()
+{
+	number1=parseInt(prompt("Enter the first number"," "));
+	document.getElementById('first').innerHTML = number1;
+}
+
+function get_number2()
+{
+	number2=parseInt(prompt("Enter the second number"," "));
+	document.getElementById('second').innerHTML = number2;
+}
+
+function compare()
+{
+	if (number1 > number2)
+		str = number1 + " is the larger number";
+	else
+		str = number2 + " is the larger number";
+	document.getElementById('larger').innerHTML = str;
+}
+
+</script>
+</head>
+<body>
+<div id="container">
+<div id="content">
+<table border=0>
+<tr>
+	<td width="200"</td>
+	<td width="200"></td>
+</tr>
+<tr>
+	<td><button type="button" onclick="get_number1()">Enter the first number </button></td> 
+	<td><span  id = "first">0</span> </td>
+</tr>
+<tr>
+	<td><button type="button" onclick="get_number2()">Enter the second number </button></td> 
+	<td><span  id = "second">0</span> </td>
+</tr>
+<tr>
+	<td><button type="button" onclick="compare()">Compare </button></td> 
+	<td><span  id = "larger"> </span> </td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+</html>
