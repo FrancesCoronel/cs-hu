@@ -19,6 +19,7 @@ end
 
 for i in 0..(array.length - 2)
   for j in i + 1..(array.length - 1)
+    # swap method described in class
     if array[i] > array[j]
       array[i], array[j] = array[j], array[i]
     end
