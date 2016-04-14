@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<!--
+Bubble Sort
+FVCproductions
+CSC 308
+JavaScript
+-->
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript">
+    // print out unsorted array
+    document.write("Unsorted Array<br>");
+    var array = new Array(34, 56, 4, 10, 77, 51, 93, 30, 5, 52);
+    for (var i = 0; i < array.length; i++)
+        document.write(array[i] + " ");
+    // bubble sort
+    for (var i = 0; i < array.length; i++) {
+        for (var j = i + 1; j < array.length; j++) {
+            if (array[i] > array[j]) {
+                var temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+        }
+    }
+    // print out sorted array
+    document.write("<br><br>Sorted Array<br>");
+    for (var i = 0; i < array.length; i++)
+        document.write(array[i] + " ");
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>
